@@ -1,0 +1,5708 @@
+(ROOT
+  (S
+    (NP (NNP Tariq) (NNP Aziz))
+    (VP (VBD was) (RB not)
+      (VP (VBN considered)
+        (NP
+          (NP (DT a) (NN member))
+          (PP (IN of)
+            (NP (NNP Saddam's) (NN innermost) (NN circle.))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Tariq) (NNP Aziz))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP (NNP Saddam's) (JJ inner) (NN circle.))))))
+#
+(ROOT
+  (S
+    (NP (NNP Tariq) (NNP Aziz))
+    (VP (VBD kept)
+      (PP (IN outside)
+        (NP
+          (NP (DT the) (VBN closed) (NN circle))
+          (PP (IN of)
+            (NP (NNP Saddam's) (NNP Sunni) (NNP Moslem) (NNP cronies.))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Tariq) (NNP Aziz))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP (NNP Saddam's) (JJ inner) (NN circle.))))))
+#
+(ROOT
+  (S
+    (NP (NNP Tariq) (NNP Aziz))
+    (VP (VBD was) (RB not)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the)
+              (ADJP (RBS most) (JJ powerful))
+              (NNS figures))
+            (PP (IN in)
+              (NP (NNP Saddam's) (NNP regime.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Tariq) (NNP Aziz))
+    (VP (VBD was)
+      (ADJP (JJ prominent)
+        (PP (IN in)
+          (NP (DT the) (NN regime.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Tariq) (NNP Aziz))
+    (VP (VBD retained)
+      (NP (NN influence.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Aziz))
+    (VP (VBD had)
+      (NP (RB virtually) (DT no) (NN power.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Alexandros) (NNP Yiotopoulos))
+    (VP (VBZ is)
+      (NP (CD 58.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Alexandros) (NNP Yiotopoulos))
+    (VP (VBZ is)
+      (ADJP
+        (NP (CD 59) (NNS years))
+        (JJ old.)))))
+#
+(ROOT
+  (S
+    (NP (CD 213) (NNS people))
+    (VP (VBD were)
+      (VP (VBN killed.)))))
+#
+(ROOT
+  (S
+    (NP (CD 219) (NNS people))
+    (VP (VBD were)
+      (VP (VBN killed.)))))
+#
+(ROOT
+  (SINV
+    (ADVP (RB Al-zarqawi))
+    (VBD was)
+    (NP (NNP Palestinian.))))
+#
+(ROOT
+  (SINV
+    (ADVP (RB Al-zarqawi))
+    (VBD was)
+    (NP (NNP Jordanian.))))
+#
+(ROOT
+  (S
+    (NP (NNP Al-zarqawi))
+    (VP (VBD was)
+      (ADJP (JJ right-handed.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Al-zarqawi))
+    (VP (VBD was)
+      (ADJP (JJ left-handed.)))))
+#
+(ROOT
+  (S
+    (NP (DT No) (NN one))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN arrested)
+          (PP (IN in)
+            (NP (DT the) (NN case."))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Collin) (NNP Finnerty))
+    (VP (VBD was)
+      (VP (VBN arrested)
+        (PP (IN on)
+          (NP
+            (NP (NNS charges))
+            (PP (IN of)
+              (NP (JJ sexual) (NN offense.)))))))))
+#
+(ROOT
+  (S
+    (NP (DT No) (NN one))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN arrested)
+          (PP (IN in)
+            (NP (DT the) (NN case.))))))))
+#
+(ROOT
+  (S
+    (NP (CD Two) (JJ sophomore) (NNP Duke) (NN lacrosse) (NNS players))
+    (VP (VBD were)
+      (VP (VBN arrested.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Zarqawi))
+    (VP (VBD did)
+      (PP (IN in)
+        (NP (NN fact)))
+      (S
+        (VP (VB survive)
+          (NP (DT the) (NN airstrike.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Abu) (NNP Musab) (NNP al-Zarqawi))
+    (VP (VBD was)
+      (VP (VBN killed)
+        (PP (IN in)
+          (NP (DT an) (NN airstrike.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Zarqawi))
+    (VP (VBD did)
+      (PP (IN in)
+        (NP (NN fact)))
+      (S
+        (VP (VB survive)
+          (NP (DT the) (NN airstrike.)))))))
+#
+(ROOT
+  (S
+    (NP (DT An) (NN airstrike))
+    (VP (VBD ended)
+      (NP (JJ al-Zarqawi's) (NN life.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Abu) (NNP Musab) (NNP al-Zarqawi,))
+    (VP (VBD was)
+      (NP (DT a) (JJ Jordanian) (JJ terrorist) (NN leader.)))))
+#
+(ROOT
+  (SINV
+    (ADVP (RB al-Zarqawi))
+    (VBD was)
+    (NP (NNP Palestinian.))))
+#
+(ROOT
+  (S
+    (NP (NNP Abu) (NNP Musab) (NNP Al-Zarqawi))
+    (VP (VBD was)
+      (VP (VBN killed)
+        (PP (IN in)
+          (NP (DT a) (NNP U.S.) (NN air) (NN strike.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Zarqawi))
+    (VP (VBD did)
+      (PP (IN in)
+        (NP (NN fact)))
+      (S
+        (VP (VB survive)
+          (NP (DT the) (NN airstrike.)))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP African) (NNP Union's) (NN mandate))
+      (PP (IN in)
+        (NP (NNP Darfur))))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB monitor)
+            (S
+              (NP (DT the) (NN cease-fire,))
+              (RB not)
+              (VP (VB enforce)
+                (NP (NN it.))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP African) (NNP Union))
+    (VP (MD will)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB enforce)
+              (NP (DT the) (NN peace) (NN agreement.)))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP National) (NNP Security) (NNP Agency))
+    (VP (VBZ carries)
+      (PRT (RP out))
+      (NP
+        (NP (JJ electronic) (NN surveillance))
+        (PP (IN of)
+          (NP (JJ American) (NN citizens.)))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN eavesdropping) (NN network))
+      (PP (IN of)
+        (NP (DT the) (NN agency) (NN [NSA]))))
+    (VP (VBD was)
+      (VP (VBN directed)
+        (PP (IN at)
+          (NP (NN foreigners.)))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP National) (NNP Security) (NNP Agency))
+    (VP (VBZ carries)
+      (PRT (RP out))
+      (NP
+        (NP (JJ electronic) (NN surveillance))
+        (PP (IN of)
+          (NP (JJ American) (NN citizens.)))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN eavesdropping) (NN network))
+      (PP (IN of)
+        (NP (DT the) (NN agency) (NN [NSA]))))
+    (VP (VBD was) (RB not)
+      (VP (VBN directed)
+        (PP (IN at)
+          (NP (NNP U.S.) (NNP citizens.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Buffett))
+    (VP (VBZ is)
+      (VP (VBG giving)
+        (NP (DT the) (NNP Gates) (NN foundation))
+        (NP
+          (NP
+            (QP (RB about) (CD 85))
+            (NN percent))
+          (PP (IN of)
+            (NP (PRP$ his) (NN fortune.))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Gates) (NN foundation))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ responsible)
+          (PP (IN for)
+            (S
+              (VP (VBG distributing)
+                (NP
+                  (NP
+                    (QP (RB about) (CD $31) (CD billion)))
+                  (PP (IN of)
+                    (NP (NNP Buffett's)))
+                  (VP (VBN estimated)
+                    (NP
+                      (QP (CD $44) (CD billion))
+                      (NN estate.))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (MD will)
+      (VP (VB grant)
+        (NP (NN permission))
+        (PP (IN for)
+          (NP
+            (NP (NNP United) (NNPS Nations))
+            (VP (VBG peacekeeping)
+              (NP (NNS forces))
+              (S
+                (VP (TO to)
+                  (VP (VB take)
+                    (PRT (RP up))
+                    (NP
+                      (NP (NN station))
+                      (PP (IN in)
+                        (NP (NNP Darfur.))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBZ is)
+      (ADJP (RB as) (JJ adamant)
+        (PP (IN as)
+          (ADVP (RB ever))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (ADVP (RB never))
+            (VP (VB accept)
+              (NP (NNP U.N.) (NNP peacekeepers.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (NP (NNP U.N.) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Darfur.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (MD will)
+      (VP (VB grant)
+        (NP (NN permission))
+        (PP (IN for)
+          (NP
+            (NP (NNP United) (NNPS Nations))
+            (VP (VBG peacekeeping)
+              (NP (NNS forces))
+              (S
+                (VP (TO to)
+                  (VP (VB take)
+                    (PRT (RP up))
+                    (NP
+                      (NP (NN station))
+                      (PP (IN in)
+                        (NP (NNP Darfur.))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (NP (NNP U.N.) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Darfur.)))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN matter))
+      (VP (VBG [allowing)
+        (NP (NNP U.N.) (NNS troops))
+        (PP (IN in)
+          (NP (NNP Darfur])))))
+    (VP (VBD was)
+      (ADJP (JJ open)
+        (PP (IN for)
+          (NP (NN discussion.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (NP (NNP U.N.) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Darfur.)))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Sudanese) (NN government))
+    (VP (VBZ supports)
+      (S
+        (NP (DT a) (NNP U.N.) (NN peacekeeping) (NN force))
+        (VP (TO to)
+          (VP (VB replace)
+            (NP
+              (NP (DT the) (NNP overwhelmed) (NNP African) (NNP Union) (NN force))
+              (PP (IN of)
+                (NP (CD 7,000.))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (NP (NNP U.N.) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Darfur.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD was)
+      (ADJP (JJ ready)
+        (S
+          (VP (TO to)
+            (VP (VB accept)
+              (NP (NNP U.N.) (NNP troops.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (NP (NNP U.N.) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Darfur.)))))))))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBP [Sudanese)
+      (SBAR
+        (S
+          (NP (NNP government]))
+          (VP (MD will)
+            (VP (VB accept)
+              (S
+                (NP (PRP it))
+                (NP (NNP [U.N.) (NNP forces].))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Sudanese) (NN government))
+    (VP (VBZ has)
+      (VP (VBN refused)
+        (S
+          (VP (TO to)
+            (VP (VB allow)
+              (S
+                (NP (NNP U.N.) (NNS peacekeepers))
+                (VP (TO to)
+                  (VP (VB replace)
+                    (NP (DT the) (JJ overmatched) (NNP African) (NNP Union) (NN force))
+                    (ADVP (RB now))
+                    (PP (IN in)
+                      (NP (NN place.)))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Sudanese) (NN government))
+    (VP (VBZ supports)
+      (S
+        (NP (DT a) (NNP U.N.) (NN peacekeeping) (NN force))
+        (VP (TO to)
+          (VP (VB replace)
+            (NP
+              (NP (DT the) (NNP overwhelmed) (NNP African) (NNP Union) (NN force))
+              (PP (IN of)
+                (NP (CD 7,000.))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBZ is)
+      (ADJP (RB as) (JJ adamant)
+        (PP (IN as)
+          (ADVP (RB ever))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (ADVP (RB never))
+            (VP (VB accept)
+              (NP (NNP U.N.) (NNS peacekeepers)))))))
+    (. .)))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBP [Sudanese)
+      (SBAR
+        (S
+          (NP (NNP government]))
+          (VP (VBZ supports)
+            (S
+              (NP (DT a) (NNP U.N.) (NN peacekeeping) (NN force))
+              (VP (TO to)
+                (VP (VB replace)
+                  (NP
+                    (NP (DT the) (NNP overwhelmed) (NNP African) (NNP Union) (NN force))
+                    (PP (IN of)
+                      (NP (CD 7,000.)))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBZ is)
+      (ADJP (RB as) (JJ adamant)
+        (PP (IN as)
+          (ADVP (RB ever))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (ADVP (RB never))
+            (VP (VB accept)
+              (NP (NNP U.N.) (NNP peacekeepers.)))))))))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBP [Sudanese)
+      (SBAR
+        (S
+          (NP (NNP government]))
+          (VP (MD will)
+            (VP (VB accept)
+              (S
+                (NP (PRP it))
+                (NP (NNP [U.N.) (NNP forces].))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD was)
+      (ADJP (JJ ready)
+        (S
+          (VP (TO to)
+            (VP (VB accept)
+              (NP (NNP U.N.) (NNP troops.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBZ is)
+      (ADJP (RB as) (JJ adamant)
+        (PP (IN as)
+          (ADVP (RB ever))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (ADVP (RB never))
+            (VP (VB accept)
+              (NP (NNP U.N.) (NNP peacekeepers.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD was)
+      (ADJP (JJ ready)
+        (S
+          (VP (TO to)
+            (VP (VB accept)
+              (NP (NNP U.N.) (NNP troops.)))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Khartoum) (NN government))
+    (VP (VBD had) (RB not)
+      (ADVP (RB yet))
+      (VP (VBN granted)
+        (NP (DT that) (JJ [U.N.) (NN assessment) (NN team))
+        (PP (IN into)
+          (NP (NNP Darfur]) (NNP permission.)))))))
+#
+(ROOT
+  (S
+    (NP (DT No) (JJ direct) (NN link))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN established)
+          (PP (IN between)
+            (NP
+              (NP
+                (NP (DT the) (CD two) (NNS kidnappings))
+                (NP (NNP [by) (NNP Hezbollah)))
+              (CC and)
+              (NP
+                (NP (NNP Hamas))
+                (PP (IN of)
+                  (NP (JJ Israeli) (NNS soldiers])))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT Some) (NN form))
+      (PP (IN of)
+        (NP (NN coordination))))
+    (VP (VBP [between)
+      (S
+        (NP
+          (NP (DT the) (CD two) (NNS kidnappings))
+          (PP (IN by)
+            (NP (NNP Hezbollah)
+              (CC and)
+              (NNP Hamas)))
+          (PP (IN of)
+            (NP (JJ Israeli) (JJ soldiers]) (NN can't))))
+        (VP (VB be)
+          (VP (VBN ruled)
+            (NP (NN out.))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Evo) (NNP Morales))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ top) (JJ presidential) (NN candidate))
+        (PP (IN in)
+          (NP (NNP Bolivia.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Evo) (NNP Morales))
+    (VP (VBZ is)
+      (NP (NNP Bolivian) (NNP President.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Evo) (NNP Morales))
+    (VP (VBZ is)
+      (NP (DT a) (JJ former) (NN congressman.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Evo) (NNP Morales))
+    (VP (VBZ is)
+      (NP (DT a) (NN congressman.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Evo) (NNP Morales))
+    (VP (VBZ is)
+      (NP (DT the) (JJ new) (NNP Bolivian) (NNP President.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Evo) (NNP Morales))
+    (VP (VBZ is)
+      (NP (DT a) (NN congressman.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Prime) (NNP Minister) (NNP Ariel) (NNP Sharon))
+    (VP (VBD underwent)
+      (NP
+        (NP (CD five) (NNS hours))
+        (PP (IN of)
+          (NP (NN surgery.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sharon))
+    (VP (VBD underwent)
+      (NP
+        (NP (CD nine) (NNS hours))
+        (PP (IN of)
+          (NP (NN surgery.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Sharon))
+    (VP (VBD underwent)
+      (NP
+        (NP (CD nine) (NNS hours))
+        (PP (IN of)
+          (NP (NN surgery.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Israeli) (NNP Prime) (NNP Minister) (NNP Ariel) (NNP Sharon))
+    (VP (VBD underwent)
+      (NP
+        (NP (CD seven) (NNS hours))
+        (PP (IN of)
+          (NP (NN emergency) (NN surgery.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP FEMA))
+    (VP (MD would)
+      (VP (VB cut)
+        (PRT (RP off))
+        (NP
+          (NP (NN financing))
+          (PP (IN for)
+            (NP (JJS most) (NNS rooms))))
+        (PP (IN by)
+          (NP (NNP Dec.) (CD 1.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP FEMA))
+    (VP (VBD set)
+      (NP
+        (NP (DT the) (NNP Dec.) (CD 15)
+          (CC and)
+          (NNP Jan.) (CD 7) (NNS deadlines))
+        (PP (IN for)
+          (S
+            (VP (VBG cutting)
+              (PRT (RP off))
+              (NP
+                (NP (NN financing))
+                (PP (IN for)
+                  (NP (JJS most) (NN rooms.)))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Hezbollah))
+    (VP (VBD fired)
+      (NP
+        (NP (DT a) (NN rocket))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD killed)
+              (NP (CD eight) (NN workers.)))))))))
+#
+(ROOT
+  (SINV
+    (FRAG
+      (ADJP (JJ Hezbollah)))
+    (VP (VBD killed))
+    (NP (CD eight) (JJ Israeli) (NN soldiers.))))
+#
+(ROOT
+  (S
+    (NP (NNP TamilNet))
+    (VP (VBD reported)
+      (SBAR (IN that)
+        (S
+          (NP (DT a) (JJ second) (NN navy) (NN vessel))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN sunk.)))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Sri) (NNP Lankan) (NN military))
+    (VP (VBZ denies)
+      (SBAR (IN that)
+        (S
+          (NP (DT a) (JJ second) (NN navy) (NN vessel))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN sunk.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Eighth))
+    (VP (VBD were)
+      (VP (VBN detonated.)))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ first))
+      (PP (IN of)
+        (NP (DT the) (CD seven) (NNS blasts))))
+    (ADJP (JJ struck.))))
+#
+(ROOT
+  (S
+    (NP (NNP Eighth))
+    (VP (VBD were)
+      (VP (VBN detonated.)))))
+#
+(ROOT
+  (S
+    (NP (DT The) (CD seven) (NN train) (NNS bombs))
+    (VP (VBN detonated.))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NN train) (NNS bombings))
+    (VP (VBD killed)
+      (NP
+        (QP (JJR more) (IN than) (CD 180))
+        (NN people.)))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNS bombings))
+    (VP (VBD killed)
+      (NP (CD 63) (NN people.)))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NN death) (NN toll))
+    (VP (VBD stood)
+      (PP (IN at)
+        (NP (CD 48.))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NN death) (NN toll))
+    (VP (VBD was)
+      (NP
+        (QP (IN at) (JJS least) (CD 55.))))))
+#
+(ROOT
+  (S
+    (NP (CD Seven)
+      (ADJP (RB carefully) (VBN coordinated))
+      (NNS blasts))
+    (VP (VBD ripped)
+      (PP (IN through)
+        (NP (JJ suburban) (NN trains.))))))
+#
+(ROOT
+  (S
+    (NP (NNP Eighth))
+    (VP (VBD were)
+      (VP (VBN detonated.)))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN report))
+      (PP (IN by)
+        (NP (NNP Mohammed) (NNP ElBaradei))))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN destruction))
+            (PP (IN of)
+              (NP (DT the) (NN site) (NN [Lavisan]))))
+          (VP (VBD raised)
+            (NP
+              (NP (JJ "the) (NN possibility))
+              (PP (IN of)
+                (NP (DT a) (JJ concealment) (NN effort"))))
+            (PP (IN by)
+              (NP (NNP Iran)))
+            (S
+              (VP (TO to)
+                (VP (VB hide)
+                  (NP (JJ uranium) (NN enrichment) (NN activities.)))))))))))
+#
+(ROOT
+  (FRAG
+    (PP (IN In)
+      (NP (PRP$ his) (NN report)))
+    (NP
+      (NP (NNP Mohamed) (NNP ElBaradei) (NN director) (NN general))
+      (PP (IN of)
+        (NP (DT the) (NNP International) (NNP Atomic) (NNP Energy) (NNP Agency,) (NNP praised) (NNP Iran's) (NN "transparency)
+          (CC and)
+          (NN indispensable") (NN cooperation.))))))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ causes)
+      (NP (NN concern))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Iran))
+          (VP (VBZ is)
+            (VP (VBG opting)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP
+                  (NP (PRP$ its) (NN moratorium))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN absence))
+                      (PP (IN of)
+                        (NP (NNS answers)))))))
+              (S
+                (VP (TO to)
+                  (VP (VB questions,)
+                    (NP (JJ serious) (NNS questions,))
+                    (PP (IN from)
+                      (NP (DT the) (NNP IAEA) (NNP [International) (NNP Atomic) (NNP Energy) (NNP Agency].)))))))))))))
+#
+(ROOT
+  (FRAG
+    (PP (IN In)
+      (NP (PRP$ his) (NN report)))
+    (NP
+      (NP (NNP Mohamed) (NNP ElBaradei) (NN director) (NN general))
+      (PP (IN of)
+        (NP (DT the) (NNP International) (NNP Atomic) (NNP Energy) (NNP Agency,) (NNP praised) (NNP Iran's) (NN "transparency)
+          (CC and)
+          (NN indispensable") (NN cooperation.))))))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ causes)
+      (NP (NN concern))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Iran))
+          (VP (VBZ is)
+            (VP (VBG opting)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP
+                  (NP (PRP$ its) (NN moratorium))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN absence))
+                      (PP (IN of)
+                        (NP (NNS answers)))))))
+              (S
+                (VP (TO to)
+                  (VP (VB questions,)
+                    (NP (JJ serious) (NNS questions,))
+                    (PP (IN from)
+                      (NP (DT the) (NNP IAEA) (NNP [International) (NNP Atomic) (NNP Energy) (NNP Agency].)))))))))))))
+#
+(ROOT
+  (S
+    (NP (NN "We're))
+    (VP (VBD pleased,)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP [International)
+            (SBAR
+              (S
+                (NP (NNP Atomic) (NNP Energy) (NNP Agency]))
+                (VP (VBD got)
+                  (S
+                    (VP (VBG access,)
+                      (SBAR
+                        (S
+                          (NP (PRP it))
+                          (VP (VBD was) (RB not)
+                            (VP (VBN restricted.)
+                              (SBAR
+                                (S
+                                  (NP (PRP We))
+                                  (VP (VBD were)
+                                    (VP (VBN allowed)
+                                      (S
+                                        (VP
+                                          (VP (TO to)
+                                            (VP (VB see)
+                                              (NP (PDT all) (DT the) (NNS buildings))))
+                                          (CC and)
+                                          (VP (TO to)
+                                            (VP (VB take)
+                                              (NP (JJ environmental) (NNS samples.")))))))))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Reade) (NNP Seligmann))
+    (VP (VBD was)
+      (VP (VBN arrested.)))))
+#
+(ROOT
+  (S
+    (NP (NNP Seligmann))
+    (VP (VBD was)
+      (VP (VBN released.)))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN charge))
+      (PP (IN of)
+        (NP
+          (NP (NN breach))
+          (PP (IN of)
+            (NP (NN trust))))))
+    (VP (VBD reflected)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP they))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (VP (VBD were)
+                  (NP (NNS efforts))
+                  (PP (IN by)
+                    (NP
+                      (NP (NNP Chung) (NNP Mong-koo))
+                      (VP (VBN tried)
+                        (PP (TO to)
+                          (NP (NNP enrich) (NNP himself.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN charge))
+      (PP (IN of)
+        (NP
+          (NP (NN breach))
+          (PP (IN of)
+            (NP (NN trust))))))
+    (VP (VBD reflected)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP they))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (VP (VBD were)
+                  (NP
+                    (NP (NNS efforts))
+                    (PP (IN by)
+                      (NP (NNP Chung)))
+                    (S
+                      (VP (TO to)
+                        (VP (VB enrich)
+                          (NP (PRP$ his) (NN son.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT No) (NN one))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN arrested)
+          (PP (IN in)
+            (NP (DT the) (NN case.))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Collin) (NNP Finnerty))
+    (VP (VBD was)
+      (VP (VBN arrested)
+        (PP (IN on)
+          (NP
+            (NP (NNS charges))
+            (PP (IN of)
+              (NP (NN kidnapping.)))))))))
+#
+(ROOT
+  (S
+    (NP (DT No) (NN one))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN arrested)
+          (PP (IN in)
+            (NP (DT the) (NN case.))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Collin) (NNP Finnerty))
+    (VP (VBD was)
+      (VP (VBN arrested)
+        (PP (IN on)
+          (NP
+            (NP (NNS charges))
+            (PP (IN of)
+              (NP (NN rape.)))))))))
+#
+(ROOT
+  (S
+    (NP (DT No) (NN one))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN arrested)
+          (PP (IN in)
+            (NP (DT the) (NN case.))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Reade) (NNP Seligmann,) (CD 20))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB also))
+        (VBN arrested.)))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNPS Ministers))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (NNS members))
+              (PP (IN of)
+                (NP (NNP Parliament.))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Prime) (NNP Minister))
+    (VP (VBZ is)
+      (ADVP (RB no) (RB longer))
+      (VP (VBN required)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (NN member))
+                (PP (IN of)
+                  (NP (DT the) (NN parliament.)))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Karnak))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN brother))
+        (PP (IN of)
+          (NP (NNP Triton,)))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD endured)
+              (NP (NNS Terrigenesis))
+              (SBAR (IN before)
+                (S
+                  (NP (PRP he))
+                  (VP (VBN did.)))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Karnak))
+    (VP (VBZ is)
+      (ADVP (RB usually))
+      (VP (VBN attended)
+        (PP (IN by)
+          (NP
+            (NP (PRP$ his) (NNS cousins) (NN Gorgon))
+            (CC and)
+            (NP (NNP Triton.))))))))
+#
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP
+          (NP (DT a) (NN memo))
+          (ADJP (JJ dated)
+            (NP (CD 25))))
+        (NP (NNP July) (CD 1950,))))
+    (NP (NNP U.S.) (NNP Air) (NNP Force) (NNP Colonel) (NNP Turner) (NNP C.) (NNP Rogers))
+    (VP (VBD stated)
+      (SBAR
+        (S
+          (NP (NNP that,) (NNP "The) (NNP Army))
+          (VP (VBZ has)
+            (VP (VBN requested)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP we))
+                  (VP (VB strafe)
+                    (NP
+                      (NP (DT all) (JJ civilian) (NN refugee) (NNS parties))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBP are)
+                            (VP (VBN noted)
+                              (S
+                                (VP (VBG approaching)
+                                  (NP (PRP$ our) (NN positions.)
+                                    (S
+                                      (VP (TO To)
+                                        (VP (VB date,)
+                                          (SBAR
+                                            (S
+                                              (NP (PRP we))
+                                              (VP (VBP have)
+                                                (VP (VBN complied)
+                                                  (PP (IN with)
+                                                    (NP (DT the) (NNP Army) (NN request)))
+                                                  (PP (IN in)
+                                                    (NP (DT this) (NN respect."))))))))))))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP President) (NNP Bill) (NNP Clinton))
+    (VP (VBD expressed)
+      (SBAR
+        (S
+          (NP (NNP U.S.))
+          (VP (VBP regret)
+            (PRT (RP over))
+            (NP
+              (NP (JJ Korean) (JJ civilian) (NNS deaths,))
+              (SBAR
+                (S
+                  (NP (DT the) (NNP U.S.)
+                    (CC and)
+                    (NNP South) (NNP Korea))
+                  (VP (VBD issued)
+                    (NP
+                      (NP (DT a) (JJ joint) (NN "statement))
+                      (PP (IN of)
+                        (NP (JJ mutual) (NNS understanding")))
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBD stated)
+                            (SBAR (IN that)
+                              (S
+                                (NP (EX there))
+                                (VP (VBD were)
+                                  (NP (DT no) (NNS orders)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB fire)
+                                          (PP (IN on)
+                                            (NP (NN civilians.))))))))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Qeshm) (NNP Island) (NN surface))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB mostly) (JJ rocky)
+          (CC and)
+          (JJ barren))
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ small) (JJ human) (NN population))
+            (PP (IN of)
+              (NP
+                (QP (RB approximately) (CD 8,000.))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN population))
+      (PP (IN of)
+        (NP (NNP Qeshm) (NNP Island))))
+    (VP (VBZ is)
+      (NP
+        (QP (RB about) (CD 200,000.))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NN flag))
+    (VP (VBZ is)
+      (ADVP (RB first))
+      (VP (VBN thought)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (VP (VBN been)
+                (VP (VBN used)
+                  (PP (IN in)
+                    (NP (CD 1893)))
+                  (PP (IN by)
+                    (NP (NNP Conradh) (NNP na) (NNP Gaeilge.))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (CD 1858,)))
+    (NP (DT the) (JJ Irish) (NNP Republican) (NNP Brotherhood))
+    (VP (VBD adopted)
+      (NP (DT the) (NN flag))
+      (PP (IN as)
+        (NP (PRP$ their) (NN symbol.))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Kuwait) (NNP Times))
+    (VP (VBD reported)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Hezbollah))
+          (VP (VBZ has)
+            (VP (VBN buried)
+              (PP (IN over)
+                (NP
+                  (NP (CD 700) (NNS fighters))
+                  (PP (IN with)
+                    (NP
+                      (QP (RBR more) (TO to) (CD follow,))))))
+              (NP (NNP August) (CD 30.)))))))))
+#
+(ROOT
+  (FRAG
+    (NP (DT The) (JJ Australian) (NNS reports))
+    (SBAR (IN that)
+      (S
+        (NP (NNP Israel))
+        (VP (VBZ has)
+          (NP
+            (NP (DT the) (NNS names))
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP (IN over) (CD 430))
+                  (NNP Hezbollah) (NNS fighters))
+                (SBAR
+                  (S
+                    (NP (PRP it))
+                    (VP
+                      (VP (VBD killed))
+                      (CC and)
+                      (VP (VBZ estimates)
+                        (ADJP
+                          (ADJP
+                            (NP (JJ total) (NNP Hezbollah))
+                            (JJ dead))
+                          (PP (IN at)
+                            (PP (IN over)
+                              (NP (CD 800,)))))
+                        (NP (NNP August) (CD 29.))))))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD was)
+        (VP
+          (VP
+            (PP (IN in)
+              (NP (JJ brief) (NN demand)))
+            (PP (IN as)
+              (NP (DT a) (JJ motivational) (NN speaker)))
+            (PP (IN after)
+              (NP (PRP$ his) (NN flight))))
+          (CC and)
+          (VP (VB quit)
+            (NP (PRP$ his) (NN job))
+            (PP (IN as)
+              (NP (DT a) (NN truck) (NN driver,))))))
+      (CC but)
+      (ADVP (RB never))
+      (VP
+        (VP (VBD was)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB make)
+                  (NP (JJ much) (NN money))
+                  (PP (IN from)
+                    (NP (PRP$ his) (NN fame;)))
+                  (PP
+                    (ADVP (RB later))
+                    (IN on) (IN in)
+                    (NP
+                      (NP (PRP$ his) (NNP life,) (NNP Walters))
+                      (VP (VBN hiked)
+                        (NP (DT the) (NNP San) (NNP Gabriel) (NNPS Mountains))))))))))
+        (CC and)
+        (VP (VBD did)
+          (NP (NN volunteer) (NN work))
+          (PP (IN for)
+            (NP (DT the) (NNP United) (NNPS States) (NNP Forest) (NNP Service)))
+          (PP (IN before)
+            (S
+              (VP (VBG committing)
+                (NP (NN suicide))
+                (PP (IN by)
+                  (S
+                    (VP (VBG shooting)
+                      (NP (PRP himself))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN heart))
+                          (PP (IN in)
+                            (NP
+                              (NP (NNP Angeles) (NNP National) (NNP Forest))
+                              (PP (IN on)
+                                (NP (NNP October) (CD 6,))))))))))))))
+        (NP (CD 1988.))))))
+#
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD was)
+        (VP
+          (VP
+            (PP (IN in)
+              (NP (JJ brief) (NN demand)))
+            (PP (IN as)
+              (NP (DT a) (JJ motivational) (NN speaker)))
+            (PP (IN after)
+              (NP (PRP$ his) (NN flight))))
+          (CC and)
+          (VP (VB quit)
+            (NP (PRP$ his) (NN job))
+            (PP (IN as)
+              (NP (DT a) (NN truck) (NN driver,))))))
+      (CC but)
+      (ADVP (RB never))
+      (VP
+        (VP (VBD was)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB make)
+                  (NP (JJ much) (NN money))
+                  (PP (IN from)
+                    (NP (PRP$ his) (NN fame;)))
+                  (PP
+                    (ADVP (RB later))
+                    (IN on) (IN in)
+                    (NP
+                      (NP (PRP$ his) (NNP life,) (NNP Walters))
+                      (VP (VBN hiked)
+                        (NP (DT the) (NNP San) (NNP Gabriel) (NNPS Mountains))))))))))
+        (CC and)
+        (VP (VBD did)
+          (NP (NN volunteer) (NN work))
+          (PP (IN for)
+            (NP (DT the) (NNP United) (NNPS States) (NNP Forest) (NNP Service)))
+          (PP (IN before)
+            (S
+              (VP (VBG committing)
+                (NP (NN suicide))
+                (PP (IN by)
+                  (S
+                    (VP (VBG shooting)
+                      (NP (PRP himself))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN heart))
+                          (PP (IN in)
+                            (NP
+                              (NP (NNP Angeles) (NNP National) (NNP Forest))
+                              (PP (IN on)
+                                (NP (NNP October) (CD 6,))))))))))))))
+        (NP (CD 1993.))))))
+#
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN spending))
+        (PP (IN about)
+          (NP
+            (NP (CD twelve) (NNS hours))
+            (PP (IN in)
+              (NP (DT the) (JJ sky,) (NN though,)))))))
+    (NP (PRP he))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN conclusion)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB shoot)
+                    (NP (DT a) (JJ few) (NNS balloons))
+                    (PP (IN after)
+                      (NP (NNP all;))))))
+              (S
+                (VP (VBG doing)
+                  (S
+                    (S
+                      (ADVP (RB so))
+                      (VP (VBN caused)
+                        (S
+                          (NP (PRP him))
+                          (VP (TO to)
+                            (VP (VB descend)
+                              (ADVP (RB slowly)
+                                (NP (CD again,)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT the) (JJ balloon's) (JJ dangling) (NNS cables))
+                                  (VP (VBD got)
+                                    (VP (VBN caught)
+                                      (PP (IN in)
+                                        (NP (DT a) (NN power) (NN line,)))
+                                      (S
+                                        (VP (VBG causing)
+                                          (NP (DT a) (JJ black))
+                                          (PRT (RP out))
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT a) (NNP Long) (NNP Beach))
+                                              (VP (VBN neighbourhood)
+                                                (PP (IN for)
+                                                  (NP
+                                                    (QP (CD 20) (CD minutes,))))))))))))))))))
+                    (CC but)
+                    (S
+                      (ADVP (RB also))
+                      (VP (VBG allowing)
+                        (S
+                          (NP (NNP Walters))
+                          (VP (TO to)
+                            (VP (VB climb)
+                              (PRT (RP down))
+                              (PP (TO to)
+                                (NP (DT the) (NN ground) (NN again.))))))))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN spending))
+        (PP
+          (NP
+            (QP (RB about) (CD 45))
+            (NNS minutes))
+          (IN in)
+          (NP (DT the) (JJ sky,) (NN though,)))))
+    (NP (PRP he))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN conclusion)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB shoot)
+                    (NP (DT a) (JJ few) (NNS balloons))
+                    (PP (IN after)
+                      (NP (NNP all;))))))
+              (S
+                (VP (VBG doing)
+                  (S
+                    (S
+                      (ADVP (RB so))
+                      (VP (VBN caused)
+                        (S
+                          (NP (PRP him))
+                          (VP (TO to)
+                            (VP (VB descend)
+                              (ADVP (RB slowly)
+                                (NP (CD again,)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT the) (JJ balloon's) (JJ dangling) (NNS cables))
+                                  (VP (VBD got)
+                                    (VP (VBN caught)
+                                      (PP (IN in)
+                                        (NP (DT a) (NN power) (NN line,)))
+                                      (S
+                                        (VP (VBG causing)
+                                          (NP (DT a) (JJ black))
+                                          (PRT (RP out))
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT a) (NNP Long) (NNP Beach))
+                                              (VP (VBN neighbourhood)
+                                                (PP (IN for)
+                                                  (NP
+                                                    (QP (CD 20) (CD minutes,))))))))))))))))))
+                    (CC but)
+                    (S
+                      (ADVP (RB also))
+                      (VP (VBG allowing)
+                        (S
+                          (NP (NNP Walters))
+                          (VP (TO to)
+                            (VP (VB climb)
+                              (PRT (RP down))
+                              (PP (TO to)
+                                (NP (DT the) (NN ground) (NN again.))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (VP (VBN brought)
+        (PP (TO to)
+          (NP (JJ ancient) (NNS Caledonia,)))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN island))
+            (VP (VBN known)
+              (PP (IN as)
+                (S
+                  (VP (VBG Alba,)
+                    (PP (IN by)
+                      (NP (NNP Scotti)))
+                    (PP (IN from)
+                      (SBAR
+                        (WHNP (WP what))
+                        (S
+                          (VP (VBZ is)
+                            (ADVP (RB now))
+                            (NP
+                              (NP (NNP Ulster))
+                              (PP (IN around)
+                                (NP (NNP AD) (CD 500.))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (VP (VBN brought)
+        (PP (TO to)
+          (NP (JJ ancient) (NNS Caledonia,)))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN island))
+            (VP (VBN known)
+              (PP (IN as)
+                (S
+                  (VP (VBG Alba,)
+                    (PP (IN by)
+                      (NP (NNP Scotti)))
+                    (PP (IN from)
+                      (SBAR
+                        (WHNP (WP what))
+                        (S
+                          (VP (VBZ is)
+                            (ADVP (RB now))
+                            (NP
+                              (NP (NNP Ulster))
+                              (PP (IN by)
+                                (PP (IN around)
+                                  (NP (DT the) (JJ 4th) (NN century.)))))))))))))))))))
+#
+(ROOT
+  (S
+    (S
+      (NP (NNP Wilhelm) (NNP Maximilian) (NNP Wundt))
+      (VP (VBP (August)
+        (NP (CD 17,) (CD 1832))))
+    (: -)
+    (S
+      (NP (NNP August))
+      (NP (CD 31,) (CD 1920)))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (JJ German) (NN physiologist))
+          (CC and)
+          (NP (NN psychologist.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Wundt))
+    (VP (VBD was)
+      (VP (VBN born)
+        (NP (NNP August) (CD 16,))
+        (S
+          (VP (VBG 1832)
+            (PP (IN at)
+              (NP
+                (NP (NNP Neckarau,))
+                (PP (IN in)
+                  (NP (NNP Baden.)))))))))))
+#
+(ROOT
+  (S
+    (NP (NN "We))
+    (VP (VBD found)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NNS weapons))
+            (PP (IN of)
+              (NP
+                (NP (JJ mass) (NN destruction.))
+                (SBAR
+                  (S
+                    (NP (PRP We))
+                    (VP (VBD found)
+                      (SBAR
+                        (S
+                          (NP (JJ biological) (NNP laboratories,") (NNP Mr.) (NNP Bush))
+                          (VP (VBD told)
+                            (NP
+                              (NP (JJ Polish) (NN television.) (NN "For))
+                              (SBAR
+                                (S
+                                  (NP
+                                    (NP (DT those))
+                                    (SBAR
+                                      (WHNP (WP who))
+                                      (S
+                                        (VP (VBP say)
+                                          (S
+                                            (NP (PRP we))
+                                            (ADJP (JJ haven't)))))))
+                                  (VP (VBD found)
+                                    (NP
+                                      (NP (DT the) (VBN banned) (NN manufacturing) (NNS devices))
+                                      (CC or)
+                                      (NP (VBN banned) (JJ weapons,) (NN they're))))))))))))))))
+          (VP (VBD wrong,)
+            (SBAR
+              (S
+                (NP (PRP we))
+                (VP (VBD found)
+                  (NP (NNS them.")))))))))))
+#
+(ROOT
+  (PP (IN On)
+    (NP
+      (NP (NNP Sept.) (CD 9,))
+      (SBAR
+        (S
+          (NP
+            (NP (CD 2004,))
+            (PP (IN in)
+              (NP (NNP Pennsylvania,) (NNP Mr.) (NNP Bush) (NNP said:) (NNP "I))))
+          (VP (VBP recognize)
+            (S
+              (NP (PRP we))
+              (ADJP (JJ didn't))
+              (S
+                (VP (VB find)
+                  (S
+                    (NP (DT the) (NNS stockpiles) (NN [of))
+                    (VP (VB weapons])
+                      (NP (PRP we))
+                      (SBAR
+                        (S
+                          (NP (DT all) (NN thought))
+                          (VP (VBD were)
+                            (ADJP (JJ there."))))))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT the) (CD 2000) (NNS campaign,)))
+    (NP (NNP George) (NNP W.) (NNP Bush))
+    (VP (VBD argued)
+      (SBAR
+        (S
+          (PP (IN against)
+            (NP
+              (NP (NN nation) (NN building))
+              (CC and)
+              (NP (JJ foreign) (JJ military) (NN entanglements.))))
+          (PP (IN In)
+            (NP (DT the) (JJ second) (JJ presidential) (NN debate,)))
+          (NP (PRP he))
+          (ADVP (RB said:))
+          (VP (VBP "I'm)
+            (ADJP (RB not) (RB so) (JJ sure)
+              (SBAR
+                (S
+                  (S
+                    (NP
+                      (NP (DT the) (NN role))
+                      (PP (IN of)
+                        (NP (DT the) (NNP United) (NNPS States))))
+                    (VP (VBZ is)
+                      (S
+                        (VP (TO to)
+                          (VP (VB go)
+                            (PRT (RP around))
+                            (NP (DT the) (NN world)))))))
+                  (CC and)
+                  (S
+                    (NP (JJ say,) (NNS 'This))
+                    (VP (VBZ is)
+                      (NP
+                        (NP (DT the) (NN way) (NNS it's))
+                        (VP (VBN got)
+                          (PP (TO to)
+                            (NP (NNP be.'"))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP United) (NNPS States))
+    (VP (VBZ is)
+      (ADVP (RB currently))
+      (VP (VBN involved)
+        (PP (IN in)
+          (NP
+            (NP (NN nation) (NN building))
+            (PP (IN in)
+              (NP (NNP Iraq)))))
+        (PP (IN on)
+          (NP
+            (NP
+              (NP (DT a) (NN scale))
+              (ADJP (JJ unseen)
+                (PP (IN since)
+                  (NP (DT the) (NNS years))))
+              (ADVP (RB immediately)))
+            (PP (VBG following)
+              (NP (NNP World) (NNP War) (NNP II.)))))))))
+#
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT the) (CD 2000) (NNS election,)))
+    (NP (NNP Mr.) (NNP Bush))
+    (VP (VBD called)
+      (PP (IN for)
+        (NP (NNP U.S.) (NNS troops)))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN withdrawn)
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NNP NATO) (VBG peacekeeping) (NN mission))
+                  (PP (IN in)
+                    (NP (DT the) (NNP Balkans.))))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP$ His) (NN administration))
+    (VP (VBZ cites)
+      (NP (JJ such) (NNS missions))
+      (PP (IN as)
+        (NP
+          (NP (DT an) (NN example))
+          (PP (IN of)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (NNP America))
+                (VP (MD must)
+                  (VP (VB "stay)
+                    (NP (DT the) (NN course."))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT the) (CD 2000) (JJ presidential) (NN election,)))
+    (NP (NNP Mr.) (NNP Bush))
+    (VP (VBD championed)
+      (NP (JJ free) (NN trade.)))))
+#
+(ROOT
+  (S
+    (VP (VBG Eyeing)
+      (NP
+        (NP
+          (NP (NN campaign) (NNS concerns))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD allowed)
+                (S
+                  (NP (PRP him))
+                  (VP (TO to)
+                    (VP (VB win)
+                      (SBAR
+                        (S
+                          (NP (NNP West) (NNP Virginia,he))
+                          (VP (VBD imposed)
+                            (NP (CD 30) (NN percent) (NNS tariffs))
+                            (PP (IN on)
+                              (NP (JJ foreign) (NN steel) (NNS products)))
+                            (PP (IN from)
+                              (NP (NNP Europe)))))))))))))
+        (CC and)
+        (NP
+          (NP (JJ other) (NNS nations))
+          (PP (IN in)
+            (NP (NNP March) (CD 2002.))))))))
+#
+(ROOT
+  (SINV
+    (S
+      (PP (IN During)
+        (NP (DT the) (CD 2000) (NNS campaign,)))
+      (NP (NNP Mr.) (NNP Bush))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (PP (IN against)
+                (NP
+                  (NP (JJ federal) (NN intervention))
+                  (PP (VBG regarding)
+                    (NP
+                      (NP (DT the) (NN issue))
+                      (PP (IN of)
+                        (NP
+                          (NP (JJ same-sex) (NN marriage.))
+                          (SBAR
+                            (S
+                              (PP (IN In)
+                                (NP
+                                  (NP (DT an) (NN interview))
+                                  (PP (IN with)
+                                    (NP (NNP CNN's) (NNP Larry) (NNP King,)))))
+                              (NP (PRP he))
+                              (VP (VBD said,)
+                                (SBAR
+                                  (S
+                                    (NP (NNS states) (NN "can))
+                                    (VP (VBP do)
+                                      (SBAR
+                                        (WHNP (WP what))
+                                        (S
+                                          (NP (PRP they))
+                                          (VP (VBP want)
+                                            (S
+                                              (VP (TO to)
+                                                (VP (VB do")
+                                                  (PP (IN on)
+                                                    (NP (DT the) (NNP issue.) (NNP Vice) (NNP President) (NNP Cheney))))))))))))))))))))))))))
+    (VP (VBD took))
+    (NP (DT the) (JJ same) (NN stance.))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (CD Four) (NN year))
+      (VP (VBG later,)
+        (NP
+          (NP (DT this) (JJ past) (NN February,))
+          (SBAR
+            (S
+              (NP (NNP Mr.) (NNP Bush))
+              (VP (VBD announced)
+                (NP (PRP$ his) (NN support))
+                (PP (IN for)
+                  (NP (DT an) (NN amendment)))
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NNP Constitution))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ defines)
+                          (NP (NN marriage))
+                          (PP (IN as)
+                            (S
+                              (VP
+                                (VP (VBG being)
+                                  (VP
+                                    (ADVP (RB exclusively))
+                                    (PP (IN between)
+                                      (NP (NNS men)))))
+                                (CC and)
+                                (VP (VBG women.)
+                                  (NP (DT The) (NN amendment)))))))))))))))))
+    (VP (MD would)
+      (VP (VB forbid)
+        (NP (NNS states))
+        (PP (IN from)
+          (S
+            (VP (VBG doing)
+              (NP
+                (NP (NN "what))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP want)
+                      (S
+                        (VP (TO to)
+                          (VP (VB do")
+                            (PP (IN on)
+                              (NP (JJ same-sex) (NN marriage.)))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (JJ "I) (NN don't))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP (VB win)
+              (SBAR
+                (S
+                  (NP (NNP it,") (NNP Mr.) (NNP Bush))
+                  (VP (VBD said)
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN war))
+                        (PP (IN on)
+                          (NP (NN terror)))))
+                    (PP (IN in)
+                      (NP (NNP August.)))))))))))))
+#
+(ROOT
+  (FRAG
+    (NP (NNP Mr.) (NNP Bush) (NN said:) (NN "We))
+    (VP (VB meet)
+      (NP (NN today))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN time))
+          (PP (IN of)
+            (NP
+              (NP (NN war))
+              (PP (IN for)
+                (NP (PRP$ our) (NN country,)))))))
+      (SBAR
+        (S
+          (S
+            (NP
+              (NP (DT a) (NN war))
+              (SBAR
+                (S
+                  (NP (PRP we))
+                  (VP (VBD did) (RB not)
+                    (VP (VB start)
+                      (ADVP (RB yet)
+                        (NP (CD one)))
+                      (SBAR (IN that)
+                        (S
+                          (NP (PRP we))
+                          (VP (MD will)
+                            (VP (VB win.")
+                              (NP (PRP He))
+                              (ADVP (RB later)
+                                (NP (CD added,) (NN "we))))))))))))
+            (VP (VBP are)
+              (ADJP (JJ winning,))))
+          (CC and)
+          (S
+            (NP (PRP we))
+            (VP (MD will)
+              (VP (VB win.")))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Bush))
+    (VP (VBD was)
+      (ADJP (JJ critical)
+        (PP (IN of)
+          (NP
+            (NP (NNP Al) (NNP Gore))
+            (PP (IN in)
+              (NP (DT the) (CD 2000) (NN campaign))))))
+      (PP (IN for)
+        (S
+          (VP (VBG being)
+            (NP
+              (NP
+                (NP (NN part))
+                (PP (IN of)
+                  (NP (JJ "the) (NN administration) (NNS that's))))
+              (VP (VBN been)
+                (PP (IN in)
+                  (NP (NNP charge")))
+                (SBAR (IN while)
+                  (S
+                    (NP
+                      (NP (DT the) (NN "price))
+                      (PP (IN of)
+                        (NP (NN gasoline))))
+                    (VP (VBZ has)
+                      (VP (VBN gone)
+                        (S
+                          (ADJP (RB steadily) (JJ upward."))
+                          (PP (IN In)
+                            (NP (NNP December) (CD 1999,)))))))))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ first) (JJ Republican) (JJ primary) (NN debate,))
+                  (SBAR
+                    (S
+                      (NP (NNP Mr.) (NNP Bush))
+                      (VP (VBD said)
+                        (SBAR
+                          (S
+                            (NP (NNP President) (NNP Clinton))
+                            (VP (VBP "must)
+                              (NP (JJ jawbone) (NNP OPEC) (NNS members))
+                              (PP (TO to)
+                                (NP (JJR lower) (NNS prices."))))))))))))))))))
+#
+(ROOT
+  (SBAR (IN As)
+    (S
+      (NP (NN gas))
+      (VP (VBD topped)
+        (NP
+          (NP (DT a) (JJ record) (NN level))
+          (PP (IN of)
+            (NP
+              (NP (CD $50))
+              (NP (DT a) (NN barrel))))
+          (SBAR
+            (S
+              (NP (DT this) (NNP week,) (NNP Mr.) (NNP Bush))
+              (VP (VBZ has)
+                (VP (VBN shown)
+                  (NP (DT no) (NN propensity))
+                  (PP (TO to)
+                    (NP
+                      (ADJP (RB personally) (JJ pressure,)
+                        (CC or)
+                        (JJ "jawbone,"))
+                      (JJ Mideast) (NN oil) (NNS producers)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB increase)
+                        (NP
+                          (NP (NN output.))
+                          (SBAR
+                            (S
+                              (NP
+                                (NP (DT A) (NN spokesman))
+                                (PP (IN for)
+                                  (NP (DT the) (NN president))))
+                              (ADVP (RB reportedly))
+                              (VP (VBD said)
+                                (PP (IN in)
+                                  (NP (NNP March)))
+                                (SBAR (IN that)
+                                  (S
+                                    (NP (NNP Mr.) (NNP Bush))
+                                    (VP (MD will) (RB not)
+                                      (ADVP (RB personally))
+                                      (VP (VB lobby)
+                                        (S
+                                          (NP (NN oil) (NN cartel) (NNS leaders))
+                                          (VP (TO to)
+                                            (VP (VB change)
+                                              (NP (PRP$ their) (NN minds.)))))))))))))))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NNP May) (CD 2003,))
+        (PP (IN at)
+          (NP (DT the) (JJ first) (JJ Democratic) (JJ primary) (NN debate,)))))
+    (NP (NNP John) (NNP Kerry))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ his) (NN vote))
+            (VP (VBG authorizing)
+              (NP (DT the) (NN president)
+                (S
+                  (VP (TO to)
+                    (VP (VB use)
+                      (NP (NN force))))))))
+          (VP (VBD was)
+            (NP (DT the) (JJ "right) (NN decision"))
+            (SBAR (IN though)
+              (S
+                (NP (PRP he))
+                (VP (MD would)
+                  (VP (VB have)
+                    (VP (VBN "preferred)
+                      (SBAR (IN if)
+                        (S
+                          (NP (PRP we))
+                          (VP (VBD had)
+                            (VP (VBN given)
+                              (NP (NN diplomacy))
+                              (NP (DT a) (JJR greater) (NN opportunity.")))))))))))))))))
+#
+(ROOT
+  (FRAG (CC But)
+    (RB then)
+    (SBAR (IN in)
+      (S
+        (NP (NNP January) (CD 2004,) (NNP Kerry))
+        (VP (VBD began)
+          (S
+            (VP (TO to)
+              (VP (VB run)
+                (SBAR (IN as)
+                  (S
+                    (NP (NNP anti-war) (NNP candidate,) (NNP saying,) (NNP "I) (NN don't))
+                    (VP (VBP believe)
+                      (SBAR
+                        (S
+                          (NP (DT the) (NN president))
+                          (VP (VBD took)
+                            (NP (PRP us))
+                            (PP (TO to)
+                              (NP (NN war)))
+                            (SBAR (IN as)
+                              (S
+                                (NP (PRP he))
+                                (VP (MD should)
+                                  (VP (VB have.")))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP ) (NNP "I))
+    (VP (VBP know)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (JJ disheartened) (NNPS Palestinians))
+          (VP (VBP are)
+            (PP (IN by)
+              (NP (DT the) (NN decision)))
+            (S
+              (VP (TO to)
+                (VP (VB build)
+                  (NP (DT the) (NN barrier))
+                  (PP (IN off)
+                    (NP (DT the) (NNP Green) (NNP Line,"))))))
+            (SBAR
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBD told)
+                    (SBAR
+                      (S
+                        (NP (DT the) (JJ Arab) (NNP American) (NNP Institute) (NNP National) (NNP Leadership) (NNP Conference.) (NN "We) (NN don't))
+                        (VP (VBP need)
+                          (NP (DT another) (NN barrier))
+                          (PP (TO to)
+                            (NP (NNP peace.) (NNP Provocative)))))))))
+              (CC and)
+              (SBAR
+                (WHNP
+                  (ADJP (JJ counterproductive))
+                  (NNS measures))
+                (S
+                  (ADVP (RB only))
+                  (VP (VBP harm)
+                    (NP (NNS Israelis."))))))))))))
+#
+(ROOT
+  (FRAG (CC But)
+    (ADVP (RBR less))
+    (SBAR (IN than)
+      (S
+        (NP (DT a) (NN year))
+        (VP (VBD later,)
+          (SBAR
+            (S
+              (PP (IN in)
+                (NP (NNP February) (CD 2004,)))
+              (NP (PRP he))
+              (VP (VBD reversed)
+                (S
+                  (VP
+                    (VP (VBG himself,)
+                      (S
+                        (VP (VBG calling)
+                          (NP (DT the) (NN fence) (NN "a))
+                          (NP
+                            (NP (JJ legitimate) (NN act))
+                            (PP (IN of)
+                              (NP (NNP self-defense,")))))))
+                    (CC and)
+                    (VP (VBG saying)
+                      (SBAR
+                        (S
+                          (NP (NNP "President) (NNP Bush))
+                          (VP (VBZ is)
+                            (VP
+                              (ADVP (RB rightly))
+                              (VBG discussing)
+                              (PP (IN with)
+                                (NP (NNP Israel)))
+                              (NP
+                                (NP (DT the) (JJ exact) (NN route))
+                                (PP (IN of)
+                                  (NP (DT the) (NN fence)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB minimize)
+                                          (NP
+                                            (NP (DT the) (NN hardship))
+                                            (SBAR
+                                              (S
+                                                (NP (PRP it))
+                                                (VP (VBZ causes)
+                                                  (NP (JJ innocent) (NNS Palestinians.")))))))))))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP ) (NNPS Pakistan's) (NNP Musharraf))
+    (VP (VBZ calls)
+      (SBAR
+        (S
+          (NP (JJ anti-Taliban) (NNP Northern) (NNP Alliance) (NNS forces))
+          (VP (VBZ "butchers")
+            (CC and)
+            (VBZ warns)
+            (PP (IN against)
+              (S
+                (NP (PRP them))
+                (VP (VBG taking)
+                  (NP
+                    (NP (NN advantage))
+                    (PP (IN of)
+                      (NP (JJ U.S.-led) (NN bombing))))
+                  (PP (IN in)
+                    (NP (NNP Afghanistan.))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Washington,) (NNP Rumsfeld) (NNP praises) (NNP Northern) (NNP Alliance)))
+    (NP (NNS forces))
+    (VP (VBD dug)
+      (PRT (RP in))
+      (PP (IN against)
+        (NP (DT the) (NNP Taliban.))))))
+#
+(ROOT
+  (SINV
+    (VP (VBG )
+      (NP (NNP Israel's) (NNS actions)))
+    (VP (VBP have)
+      (VP (VBN sparked)
+        (NP (JJ international) (NN protests.))))
+    (NP
+      (NP (DT The) (NN tragedy))
+      (PP (IN of)
+        (NP (NNP Sunday's) (NN explosion)))
+      (PP (IN in)
+        (NP (NNP Qana)))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD killed)
+            (SBAR
+              (S
+                (NP
+                  (QP (JJR more) (IN than) (CD 50))
+                  (JJ Lebanese) (NNS civilians))
+                (VP (VBZ has)
+                  (VP (VBN presented)
+                    (NP
+                      (NP (NNP Israel))
+                      (PP (IN with)
+                        (NP (DT a) (NN dilemma.))))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ preliminary) (NNP Human) (NNPS Rights) (NNP Watch) (NN investigation))
+      (PP (IN into)
+        (NP
+          (NP (DT the)
+            (NAC (NNP July) (CD 30))
+            (JJ Israeli) (NN air) (NN strike))
+          (PP (IN in)
+            (NP (NNP Qana))))))
+    (VP (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP (CD 28) (NNS people))
+          (VP (VBP are)
+            (VP (VBN confirmed)
+              (ADJP (JJ dead)
+                (S (RB thus)
+                  (VP (VBG far,)
+                    (PP (IN among)
+                      (NP (PRP them)))
+                    (NP
+                      (NP (CD 16) (NNS children,))
+                      (SBAR
+                        (S
+                          (NP (NNP Human) (NNPS Rights) (NNP Watch))
+                          (VP (VBD said)
+                            (NP (NN today.))))))))))))))))
+#
+(ROOT
+  (S
+    (VP (VB )
+      (SBAR
+        (S
+          (NP (DT The) (NNPS Israelis))
+          (VP (VBP say)
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP
+                  (VP (VBP "hit)
+                    (NP
+                      (NP (NNS dozens))
+                      (PP (IN of)
+                        (NP (NNP Hezbollah) (NNP gunmen")))))
+                  (CC but)
+                  (VP (MD could) (RB not)
+                    (VP (VB give)
+                      (NP (JJR more) (NN details.)))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Hezbollah))
+    (VP (VBD said)
+      (NP
+        (NP (CD four))
+        (PP (IN of)
+          (NP (PRP$ its) (JJ fighters) (NN died,))))
+      (PP (IN in)
+        (NP
+          (NP (NNS battles))
+          (PP (IN in)
+            (NP
+              (NP (NNP Kfar) (NNP Kila,) (NNP Adiasse))
+              (CC and)
+              (NP (NNP Taibe.)))))))))
+#
+(ROOT
+  (S
+    (VP (VB )
+      (SBAR
+        (S
+          (NP (DT The) (NNPS Israelis))
+          (VP (VBP say)
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP
+                  (VP (VBP "hit)
+                    (NP
+                      (NP (NNS dozens))
+                      (PP (IN of)
+                        (NP (NNP Hezbollah) (NNP gunmen")))))
+                  (CC but)
+                  (VP (MD could) (RB not)
+                    (VP (VB give)
+                      (NP (JJR more) (NN details.)))))))))))))
+#
+(ROOT
+  (NP
+    (NP
+      (NP (DT An) (JJ Israeli) (NN army) (NN spokeswoman))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (NNS troops))
+            (VP (VBD had)
+              (VP (VBN killed)
+                (NP (CD 20) (NNP Hezbollah) (NNS militants))))))))
+    (: -)
+    (NP
+      (NP (DT a) (NN claim))
+      (NP (DT the) (NN group) (NN denied.) (NN 	)))))
+#
+(ROOT
+  (S
+    (VP (VB )
+      (SBAR
+        (S
+          (S
+            (PP (IN In)
+              (NP (NNP Damascus,) (NNP President) (NNP Bashar)))
+            (NP (JJ al-Assad))
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP (NNP Israel))
+                  (VP (VBD had)
+                    (VP (VBN been)
+                      (VP (VBN defeated))))))))
+          (CC and)
+          (S
+            (NP (NNP Hezbollah))
+            (VP (VBD had)
+              (VP (VBN "hoisted)
+                (NP
+                  (NP (DT the) (NN banner))
+                  (PP (IN of)
+                    (NP (NN victory".))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (NNP Bush))
+      (PP (IN at)
+        (NP (NNP State) (NNP department:) (NNP Hezbollah))))
+    (VP (VBD attacked)
+      (SBAR
+        (S
+          (S
+            (NP (NNP Israel.) (NNP Hezbollah))
+            (VP (VBD started)
+              (NP (DT the) (NN crisis.))))
+          (CC And)
+          (S
+            (NP (NNP Hezbollah))
+            (VP (VBD suffered)
+              (NP (DT a) (NN defeat))
+              (PP (IN in)
+                (NP (DT this) (NN crisis.))))))))))
+#
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN spending))
+        (PP (IN about)
+          (NP
+            (NP (CD two) (NNS hours))
+            (PP (IN in)
+              (NP (DT the) (JJ sky,) (NN though,)))))))
+    (NP (PRP he))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN conclusion)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB shoot)
+                    (NP (DT a) (JJ few) (NNS balloons))
+                    (PP (IN after)
+                      (NP (NNP all;))))))
+              (S
+                (VP (VBG doing)
+                  (S
+                    (S
+                      (ADVP (RB so))
+                      (VP (VBN caused)
+                        (S
+                          (NP (PRP him))
+                          (VP (TO to)
+                            (VP (VB descend)
+                              (ADVP (RB slowly)
+                                (NP (CD again,)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT the) (JJ balloon's) (JJ dangling) (NNS cables))
+                                  (VP (VBD got)
+                                    (VP (VBN caught)
+                                      (PP (IN in)
+                                        (NP (DT a) (NN power) (NN line,)))
+                                      (S
+                                        (VP (VBG causing)
+                                          (NP (DT a) (JJ black))
+                                          (PRT (RP out))
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT a) (NNP Long) (NNP Beach))
+                                              (VP (VBN neighbourhood)
+                                                (PP (IN for)
+                                                  (NP
+                                                    (QP (CD 20) (CD minutes,))))))))))))))))))
+                    (CC but)
+                    (S
+                      (ADVP (RB also))
+                      (VP (VBG allowing)
+                        (S
+                          (NP (NNP Walters))
+                          (VP (TO to)
+                            (VP (VB climb)
+                              (PRT (RP down))
+                              (PP (TO to)
+                                (NP (DT the) (NN ground) (NN again.))))))))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN spending))
+        (PP (IN about)
+          (NP
+            (NP (CD twelve) (NNS hours))
+            (PP (IN in)
+              (NP (DT the) (JJ sky,) (NN though,)))))))
+    (NP (PRP he))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN conclusion)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB shoot)
+                    (NP (DT a) (JJ few) (NNS balloons))
+                    (PP (IN after)
+                      (NP (NNP all;))))))
+              (S
+                (VP (VBG doing)
+                  (S
+                    (S
+                      (ADVP (RB so))
+                      (VP (VBN caused)
+                        (S
+                          (NP (PRP him))
+                          (VP (TO to)
+                            (VP (VB descend)
+                              (ADVP (RB slowly)
+                                (NP (CD again,)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT the) (JJ balloon's) (JJ dangling) (NNS cables))
+                                  (VP (VBD got)
+                                    (VP (VBN caught)
+                                      (PP (IN in)
+                                        (NP (DT a) (NN power) (NN line,)))
+                                      (S
+                                        (VP (VBG causing)
+                                          (NP (DT a) (JJ black))
+                                          (PRT (RP out))
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT a) (NNP Long) (NNP Beach))
+                                              (VP (VBN neighbourhood)
+                                                (PP (IN for)
+                                                  (NP
+                                                    (QP (CD 20) (CD minutes,))))))))))))))))))
+                    (CC but)
+                    (S
+                      (ADVP (RB also))
+                      (VP (VBG allowing)
+                        (S
+                          (NP (NNP Walters))
+                          (VP (TO to)
+                            (VP (VB climb)
+                              (PRT (RP down))
+                              (PP (TO to)
+                                (NP (DT the) (NN ground) (NN again.))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (NNP ) (NNP Bush))
+      (PP (IN at)
+        (NP (NNP State) (NNP department:) (NNP Hezbollah))))
+    (VP (VBD attacked)
+      (SBAR
+        (S
+          (S
+            (NP (NNP Israel.) (NNP Hezbollah))
+            (VP (VBD started)
+              (NP (DT the) (NN crisis.))))
+          (CC And)
+          (S
+            (NP (NNP Hezbollah))
+            (VP (VBD suffered)
+              (NP (DT a) (NN defeat))
+              (PP (IN in)
+                (NP (DT this) (NN crisis.))))))))))
+#
+(ROOT
+  (S
+    (NP (JJ Last) (NNP night,) (NNP Hassan))
+    (VP (VBD Nasrallah,)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Hezbollah) (NNP leader,))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (PRP$ his) (NNS men))
+                (VP (VBD had)
+                  (NP
+                    (NP (DT a) (JJ "strategic,) (JJ historic) (NN victory"))
+                    (PP (IN over)
+                      (NP (NNP "a) (NNP confused,) (NNP cowardly)
+                        (CC and)
+                        (NNP defeated") (NNP enemy.)))))))))))))
+#
+(ROOT
+  (S
+    (VP (VB )
+      (NP
+        (NP (JJ Last) (NNP night,) (NNP Hassan) (NNP Nasrallah,))
+        (SBAR
+          (S
+            (NP (DT the) (NNP Hezbollah) (NNP leader,))
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP (PRP$ his) (NNS men))
+                  (VP (VBD had)
+                    (NP
+                      (NP (DT a) (JJ "strategic,) (JJ historic) (NN victory"))
+                      (PP (IN over)
+                        (NP (NNP "a) (NNP confused,) (NNP cowardly)
+                          (CC and)
+                          (NNP defeated") (NNP enemy.))))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (NNP Bush) (NNP Insists) (NNP Hizbullah) (NNP Lost,) (NNP U.N.) (NNP Makes) (NNP Urgent) (NNP Appeal))
+      (PP (TO to)
+        (NP
+          (NP (NNP Europe))
+          (PP (IN for)
+            (NP (NNP Peacekeepers.) (NNP U.S.) (NNP President) (NNP George) (NNP Bush))))))
+    (VP (VBD acknowledged)
+      (NP (NNP Friday))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD could)
+            (VP (VB take)
+              (NP (NN time))
+              (PP (IN for)
+                (NP
+                  (NP
+                    (NP (DT the) (NNS people))
+                    (PP (IN of)
+                      (NP (NNP Lebanon))))
+                  (CC and)
+                  (NP (DT the) (NN world)
+                    (S
+                      (VP (TO to)
+                        (VP (VB view)
+                          (NP
+                            (NP (DT the) (NN war))
+                            (PP (IN between)
+                              (NP (NNP Israel)
+                                (CC and)
+                                (NNP Hizbullah))))
+                          (PP (IN as)
+                            (NP
+                              (NP (DT a) (NN loss))
+                              (PP (IN for)
+                                (NP (DT the) (NN group.))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP ) (NNP UN) (NNP Secretary) (NNP General) (NNP Kofi) (NNP Annan))
+    (VP (VBZ has)
+      (VP (VBN expressed)
+        (NP (JJ deep) (NN concern))
+        (PP (IN over)
+          (S
+            (NP (NNP Saturday's) (NNP Israeli) (JJ commando) (NN raid) (JJ deep) (NN inside) (NNP Lebanon,))
+            (VP (VBG calling)
+              (NP (PRP it))
+              (NP (DT a) (NN truce) (NN violation.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Israel))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (VP (VBG trying)
+                (S
+                  (VP (TO to)
+                    (VP (VB disrupt)
+                      (NP (NNS weapons) (NNS supplies))
+                      (PP (IN from)
+                        (NP (NNP Iran)
+                          (CC and)
+                          (NNP Syria)))
+                      (PP (TO to)
+                        (NP (NNP Hezbollah,)))))))))))
+      (CC and)
+      (VP (VBD insisted)
+        (NP (DT the) (NN truce) (NN held.))))))
+#
+(ROOT
+  (S
+    (NP (NNP ) (NNP UN) (NNP Secretary) (NNP General) (NNP Kofi) (NNP Annan))
+    (VP (VBZ has)
+      (VP (VBN expressed)
+        (NP (JJ deep) (NN concern))
+        (PP (IN over)
+          (S
+            (NP (NNP Saturday's) (NNP Israeli) (JJ commando) (NN raid) (JJ deep) (NN inside) (NNP Lebanon,))
+            (VP (VBG calling)
+              (NP (PRP it))
+              (NP (DT a) (NN truce) (NN violation.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Israel))
+    (VP (VBD insisted)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD had) (RB not)
+            (VP (VBN breached)
+              (NP (DT the) (NN ceasefire.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNP ) (NNP UN) (NNP Secretary) (NNP General) (NNP Kofi) (NNP Annan))
+    (VP (VBZ has)
+      (VP (VBN expressed)
+        (NP (JJ deep) (NN concern))
+        (PP (IN over)
+          (S
+            (NP (NNP Saturday's) (NNP Israeli) (JJ commando) (NN raid) (JJ deep) (NN inside) (NNP Lebanon,))
+            (VP (VBG calling)
+              (NP (PRP it))
+              (NP (DT a) (NN truce) (NN violation.)))))))))
+#
+(ROOT
+  (SINV
+    (S
+      (S
+        (NP (NN "We))
+        (VP (VBD had)
+          (NP
+            (NP (JJ specific) (NN information))
+            (PP (IN of)
+              (NP
+                (NP (NNS arms) (NNS transfers))
+                (VP (VBG taking)
+                  (NP (NN place))))))))
+      (CC and)
+      (S
+        (NP (PRP we))
+        (VP (VBD acted)
+          (S
+            (VP (TO to)
+              (VP (VB prevent)
+                (NP (DT that) (NN violation,))
+                (SBAR (RB so) (IN that)
+                  (S
+                    (NP (NN violation))
+                    (VP (VBZ is) (RB not)
+                      (PP (IN from)
+                        (NP (DT the) (JJ Israeli) (NN side)))))))))))
+      (: -)
+      (S
+        (NP (PRP we))
+        (VP (VBD were)
+          (VP (VBG responding)
+            (PP (TO to)
+              (NP
+                (NP (DT a) (NN violation))
+                (PP (IN of)
+                  (NP (DT the) (NN resolution)))))
+            (PP (IN by)
+              (NP (NNP Hezbollah,")))))))
+    (VP (VBD said)
+      (NP (JJ Israeli) (NN spokesman)))
+    (NP (NNP Mark) (NNP Regev.))))
+#
+(ROOT
+  (SINV
+    (VP (VBD )
+      (NP (JJ Al-Sharq) (JJ al-Awsat) (NNS reports))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJ Israeli) (NN raid))
+            (PP (IN into)
+              (NP (DT the) (NN Biqa'))))
+          (VP (VBD was)
+            (VP (VBN aimed)
+              (PP (IN at)
+                (S
+                  (VP
+                    (VP (VBG kidnapping)
+                      (NP (DT a) (JJ prominent) (NNP Hizbullah) (NNP leader,)))
+                    (CC or)
+                    (ADVP (RB possibly))
+                    (VP (VBG recovering)
+                      (S
+                        (VP (VBN captured))))))))))))
+    (NP (NNP Israeli) (NNP soldiers.))))
+#
+(ROOT
+  (S
+    (NP (DT The) (JJ Israeli) (NN army))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN raid))
+          (VP (VBD was)
+            (VP (VBN aimed)
+              (PP (IN at)
+                (S
+                  (VP (VBG preventing)
+                    (NP
+                      (NP (NN smuggling))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNS arms))
+                          (PP (IN from)
+                            (NP (NNP Iran)
+                              (CC and)
+                              (NNP Syria))))))
+                    (S
+                      (VP (TO to)
+                        (VP (VB Hizbullah.)
+                          (S
+                            (S
+                              (NP (PRP It))
+                              (ADVP (RB also))
+                              (VP (VBD said)
+                                (SBAR
+                                  (S
+                                    (NP (CD one) (NN soldier))
+                                    (VP (VBD was)
+                                      (VP (VBN killed)))))))
+                            (CC and)
+                            (S
+                              (NP (CD two) (NNS others))
+                              (VP (VBD were)
+                                (VP (VBN wounded)
+                                  (PP (IN in)
+                                    (NP (DT the) (NN operation.	))))))))))))))))))))
+#
+(ROOT
+  (SINV
+    (VP (VBG )
+      (NP
+        (NP (DT The) (NN report,))
+        (PP (IN for)
+          (NP (NNP instance,)))))
+    (VP (VBZ quotes))
+    (NP
+      (NP (NNP Director))
+      (PP (IN of)
+        (NP
+          (NP (NNP National) (NNP Intelligence) (NNP John) (NNP Negroponte))
+          (VP (VBG saying)
+            (SBAR
+              (S
+                (NP (NNP Iran))
+                (VP (MD could)
+                  (VP (VB have)
+                    (NP
+                      (NP (DT a) (NN bomb) (NN "sometime))
+                      (PP (IN between)
+                        (NP
+                          (NP
+                            (NP (DT the) (NN beginning))
+                            (PP (IN of)
+                              (NP (DT the) (JJ next) (NN decade))))
+                          (CC and)
+                          (NP
+                            (NP (DT the) (NN middle))
+                            (PP (IN of)
+                              (NP (DT the) (JJ next) (NN decade.")))))))))))))))))
+#
+(ROOT
+  (FRAG
+    (ADVP (RB Yet))
+    (NP
+      (NP (DT a) (JJ full) (NN transcript))
+      (PP (IN of)
+        (NP (DT the) (NNP June) (CD 2) (NNP BBC) (NN interview)))
+      (SBAR
+        (WHPP (IN from)
+          (WHNP (WDT which)))
+        (S
+          (NP (DT the) (NN quote))
+          (VP (VBZ is)
+            (VP (VBN drawn)
+              (NP (NNS shows))
+              (SBAR (IN that)
+                (S
+                  (NP (NNP Negroponte))
+                  (VP (VBZ prefaces)
+                    (SBAR (IN that)
+                      (S
+                        (NP (JJ with,) (NN "We) (NN don't))
+                        (VP
+                          (VP (VBP have)
+                            (NP (JJ clear-cut) (NNS knowledge,")))
+                          (CC and)
+                          (VP (VBZ adds)
+                            (SBAR (IN that)
+                              (S
+                                (NP (DT the) (NN time) (NN frame))
+                                (VP (VBZ is)
+                                  (ADVP (RB just))
+                                  (NP
+                                    (NP (DT an) (NN estimate))
+                                    (PP (IN of)
+                                      (SBAR
+                                        (WHADVP (WRB when))
+                                        (S
+                                          (NP (NNP Iran) (NNP "might))
+                                          (VP (VB be)
+                                            (PP (IN in)
+                                              (NP (DT a) (NN position)))
+                                            (S
+                                              (VP (TO to)
+                                                (VP (VB have)
+                                                  (NP (DT a) (JJ nuclear) (NN weapon.")))))))))))))))))))))))))))
+#
+(ROOT
+  (PP (VBG Considering)
+    (NP
+      (NP (DT that) (NNP Osama) (NNP bin) (NNP Laden))
+      (SBAR
+        (S
+          (S
+            (NP (PRP himself))
+            (VP (VBZ is)
+              (ADVP (RB still))
+              (VP (VBN reputed)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP (VBG hiding)
+                        (ADVP (RB somewhere))
+                        (PP (IN along)
+                          (NP (DT the) (JJ Afghanistan-Pakistan) (NN border))))))))))
+          (CC and)
+          (S
+            (NP (NNP Afghan) (NNP President) (NNP Hamid) (NNP Karzai))
+            (VP (VBZ is)
+              (ADJP (RB desperately) (JJ dependent)
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NN support))
+                    (PP (IN of)
+                      (NP (NN drug) (NNS lords)
+                        (CC and)
+                        (NNS warlords))))))
+              (S
+                (VP (TO to)
+                  (VP (VB prevent)
+                    (NP
+                      (NP (VBN renewed) (JJ civil) (NN war,))
+                      (SBAR
+                        (S
+                          (NP (JJ such) (NNS claims))
+                          (VP (VBP are)
+                            (NP
+                              (NP (DT a) (JJ blatant) (NN fraud.))
+                              (SBAR
+                                (S
+                                  (S
+                                    (NP
+                                      (NP (DT The) (JJ senior) (JJ British) (JJ military) (NN commander))
+                                      (PP (IN in)
+                                        (NP (NNP Afghanistan))))
+                                    (VP
+                                      (VP
+                                        (VP
+                                          (ADVP (RB recently))
+                                          (VBD described)
+                                          (NP
+                                            (NP (DT the) (NN situation))
+                                            (PP (IN in)
+                                              (NP
+                                                (NP (DT the) (NN country))
+                                                (PP (IN as)
+                                                  (NP (NN "close))))))
+                                          (PP (TO to)
+                                            (NP (NNP anarchy"))))
+                                        (CC and)
+                                        (VP (VBD said)
+                                          (SBAR
+                                            (S
+                                              (NP (NNP NATO) (NNS forces))
+                                              (VP (VBD were)
+                                                (VP (VBG "running)
+                                                  (PRT (RP out))
+                                                  (PP (IN of)
+                                                    (NP (NNP time")))
+                                                  (S
+                                                    (VP (TO to)
+                                                      (VP (VB salvage)
+                                                        (S
+                                                          (NP (DT the) (NN situation.))
+                                                          (VP (VB "The)
+                                                            (NP (JJ narcotics) (NN industry) (NNS accounts))
+                                                            (PP (IN for)
+                                                              (NP
+                                                                (NP
+                                                                  (QP (RB over) (NN one-third)))
+                                                                (PP (IN of)
+                                                                  (NP (NNP Afghanistan's)))))))))))))))
+                                        (NP (JJ gross) (JJ domestic) (NN product)))
+                                      (CC and)
+                                      (VP (VBZ poses)
+                                        (NP (DT a) (NN threat))
+                                        (PP (TO to)
+                                          (NP (DT that) (JJ country's) (NN stability))))))
+                                  (CC and)
+                                  (S
+                                    (NP (VBG emerging) (NNS democracy,"))
+                                    (ADVP (RB carefully))
+                                    (VP (VBZ admits)
+                                      (NP (DT a) (JJ recent) (NNP U.S.) (NNP State) (NNP Department) (NN fact) (NN sheet.)))))))))))))))))))))
+#
+(ROOT
+  (S
+    (PP
+      (ADVP (RB Yet))
+      (IN on)
+      (NP (NNP Tuesday,)))
+    (NP (DT the) (NNP White) (NNP House))
+    (VP (VBD was)
+      (ADVP (RB once) (RB again))
+      (VP (VBG trumpeting)
+        (SBAR (IN that)
+          (S
+            (NP (NN "we))
+            (VP
+              (VP (VBP have)
+                (VP (VBN deprived)
+                  (NP
+                    (NP (NNP Al) (NNP Qaeda))
+                    (PP (IN of)
+                      (NP (JJ safe) (NN haven))))
+                  (PP (IN in)
+                    (NP (NNP Afghanistan)))))
+              (CC and)
+              (VP (VBD helped)
+                (NP (DT a) (JJ democratic) (NN government) (NN rise))
+                (PP (IN in)
+                  (NP (PRP$ its) (NN place.")))))))))))
+#
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP ) (NNP Intelligence))
+      (SBAR
+        (S
+          (NP
+            (NP (NNS sources))
+            (PP (IN in)
+              (NP (NNP Pakistan))))
+          (VP (VBP tell)
+            (NP (NNP NBC) (NNP News))
+            (SBAR (IN that)
+              (S
+                (NP (NNP Matiur) (NNP Rehman))
+                (VP (VBD replaced)
+                  (NP
+                    (NP (NNP Amjad) (NNP Farooqi))
+                    (PP (IN as)
+                      (NP
+                        (NP (NN head))
+                        (PP (IN of)
+                          (NP (NNP Lashkar)))))))))))))
+    (X
+      (X
+        (X (SYM e))
+        (NP (CD Jhangvi,)))
+      (NP
+        (NP (DT the) (NNP Sunni) (NN extremist) (NN group))
+        (VP (VBN founded)
+          (PP (IN by)
+            (NP (NNP Farooqi.))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (NNP Intelligence) (NNS sources))
+      (PP (IN in)
+        (NP (DT the) (NNP U.S.)
+          (CC and)
+          (NNP Pakistan))))
+    (VP
+      (VP (VBP tell)
+        (NP (NNP NBC) (NNP News))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Maitur) (NNP Rehman))
+            (VP (VBZ is)
+              (NP
+                (NP (DT a) (JJ low-level) (JJ militant) (NN operating))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP South) (NNP Waziristan.))
+                    (SBAR
+                      (S
+                        (NP (PRP He))
+                        (VP (VBZ is)
+                          (VP (VBN wanted)
+                            (PP (IN by)
+                              (NP (DT the) (NNPS Pakistanis)))
+                            (PP (IN in)
+                              (NP
+                                (NP (JJ numerous) (NNS cases))
+                                (PP (IN of)
+                                  (NP (NN sectarian) (NNS violence,))))))))))))))))
+      (CC but)
+      (ADVP (JJ contrary)
+        (PP (TO to)
+          (NP (JJ recent) (NNS media))))
+      (VP (VBZ reports)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBZ is) (RB not)
+              (NP
+                (NP (DT the) (NN mastermind))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN recent,))
+                    (VP (VBN thwarted)
+                      (NP (JJ London-based) (NN plot))
+                      (S
+                        (VP (TO to)
+                          (VP (VB blow)
+                            (PRT (RP up))
+                            (NP
+                              (NP (NNS airplanes))
+                              (VP (VBN headed)
+                                (PP (IN for)
+                                  (NP (DT the) (NNP U.S.)))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (NNP ) (NNP Intelligence) (NNS sources))
+      (PP (IN in)
+        (NP (DT the) (NNP U.S.)
+          (CC and)
+          (NNP Pakistan))))
+    (VP (VBP tell)
+      (NP (NNP NBC) (NNP News))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Maitur) (NNP Rehman))
+          (VP (VBZ is)
+            (NP
+              (NP (DT a) (JJ low-level) (JJ militant) (NN operating))
+              (PP (IN in)
+                (NP (NNP South) (NNP Waziristan.))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Jundullah))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ new) (NN jihadi))
+        (SBAR
+          (S
+            (NP
+              (NP (JJ terrorist) (NNS organisation,))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD started)
+                    (NP (NN operating))
+                    (PP (IN in)
+                      (NP (DT the) (NNP Karachi) (NN area)))
+                    (NP (CD three) (NNS years))
+                    (SBAR
+                      (S
+                        (NP (NNP ago.) (NNP Maitur))
+                        (VP (VBD Rehman,)
+                          (NP (DT a) (JJ 29-year-old) (NN Pakistani,))
+                          (PP (IN from)
+                            (NP (NNP Multan)))
+                          (PP (IN in)
+                            (NP (NNP Punjab,))))))))))
+            (VP (VBZ is)
+              (VP (VBN reported)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (NP
+                        (NP (DT the) (JJ present) (NN Amir))
+                        (PP (IN of)
+                          (NP (NNP Jundullah.)))))))))))))))
+#
+(ROOT
+  (S
+    (VP (VB )
+      (NP (DT The) (RBS most) (JJ recent))
+      (SBAR
+        (S
+          (NP (NNP National) (NNP Intelligence) (NNP Estimate))
+          (VP (VBD found)
+            (SBAR (IN that)
+              (S
+                (S
+                  (NP
+                    (NP (NNP Iran's) (NN progress))
+                    (PP (IN toward)
+                      (NP (NNS weapons) (NN capability))))
+                  (VP (VBD was)
+                    (ADVP (RB actually))
+                    (ADJP
+                      (ADVP (RBR slower) (IN than))
+                      (RB previously) (JJ thought,))))
+                (CC and)
+                (S
+                  (NP
+                    (NP (NNP Director))
+                    (PP (IN of)
+                      (NP (NNP National) (NNP Intelligence) (NNP John) (NNP D.) (NNP Negroponte))))
+                  (VP (VBZ says)
+                    (SBAR
+                      (S
+                        (NP
+                          (NP (NNP that,))
+                          (PP (IN in)
+                            (NP (PRP$ his) (NNP view,) (NNP Iran))))
+                        (VP (VBZ is)
+                          (ADVP (RB still))
+                          (ADVP
+                            (NP
+                              (QP (CD four) (TO to) (CD nine))
+                              (NNS years))
+                            (RB away))
+                          (PP (IN from)
+                            (S
+                              (VP (VBG having)
+                                (NP (DT the) (NN bomb.))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN report,))
+      (PP (IN for)
+        (NP (NNP instance,))))
+    (VP (VBZ quotes)
+      (NP
+        (NP (NNP Director))
+        (PP (IN of)
+          (NP
+            (NP (NNP National) (NNP Intelligence) (NNP John) (NNP Negroponte))
+            (VP (VBG saying)
+              (SBAR
+                (S
+                  (NP (NNP Iran))
+                  (VP (MD could)
+                    (VP (VB have)
+                      (NP
+                        (NP (DT a) (NN bomb) (NN "sometime))
+                        (PP (IN between)
+                          (NP
+                            (NP
+                              (NP (DT the) (NN beginning))
+                              (PP (IN of)
+                                (NP (DT the) (JJ next) (NN decade))))
+                            (CC and)
+                            (NP
+                              (NP (DT the) (NN middle))
+                              (PP (IN of)
+                                (NP (DT the) (JJ next) (NN decade."))))))))))))))))))
+#
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP ))
+      (SBAR
+        (S
+          (NP (DT The) (NNP US)
+            (CC and)
+            (NNP Europe))
+          (VP (VBP say)
+            (SBAR
+              (S
+                (NP (NNP Iran))
+                (VP (VBZ is)
+                  (VP (VBG pursuing)
+                    (NP (DT a) (JJ clandestine) (JJ nuclear) (NNS weapons) (NN program))))))))))
+    (: -)
+    (NP (DT a) (NN charge))
+    (ADVP (RB Iran))
+    (VP (VBZ has)
+      (ADVP (RB strongly))
+      (VP (VBN denied.)))))
+#
+(ROOT
+  (S
+    (NP (NNP "The) (NNP CIA))
+    (VP (VBD found)
+      (NP (DT no) (JJ conclusive) (NN evidence,))
+      (PP (IN as)
+        (NP
+          (NP (NNP yet,))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (JJ secret) (JJ Iranian) (JJ nuclear) (NNS weapons) (NN program))
+              (VP (VBG running)
+                (NP (NN parallel))
+                (PP (TO to)
+                  (NP (DT the) (JJ civilian) (NNS operations)))
+                (SBAR (IN that)
+                  (S
+                    (NP (NNP Iran))
+                    (VP (VBZ has)
+                      (VP (VBN declared)
+                        (PP (TO to)
+                          (NP (DT the) (NNP International) (NNP Atomic) (NNP Energy) (NNP Agency,") (NNP Mr) (NNP Hersh) (NNP wrote.	)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP ) (NNP U.S.) (NNP Defense) (NNP Secretary) (NNP Donald) (NNP Rumsfeld))
+    (VP (VBZ has)
+      (VP (VBN rejected)
+        (NP
+          (NP (NNS suggestions))
+          (SBAR
+            (S
+              (NP (NNP Iraq))
+              (VP (VBZ is)
+                (VP
+                  (VP (VBN engulfed)
+                    (PP (IN in)
+                      (NP (DT a) (JJ civil) (NN war))))
+                  (CC and)
+                  (VP (VBN accused)
+                    (NP
+                      (NP (NNS media))
+                      (PP (IN of)
+                        (S
+                          (VP (VBG exaggerating)
+                            (NP
+                              (NP (DT the) (NN severity))
+                              (PP (IN of)
+                                (NP (DT the) (JJ current) (NN situation) (NN there.	))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP
+          (NP (NNP Iraq's)
+            (ADJP (RBS most) (JJ pro-western))
+            (NNS figures))
+          (CC and)
+          (NP (DT an) (JJ ex-prime) (NN minister) (NN yesterday)))))
+    (VP (VBD became)
+      (NP
+        (NP (DT the) (JJ first))
+        (PP (IN of)
+          (NP (PRP$ its) (NNS leaders)
+            (S
+              (VP (TO to)
+                (VP (VB express)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP
+                        (NP (JJS most))
+                        (PP (IN of)
+                          (NP (PRP$ his) (NNS compatriots))))
+                      (VP (VBD fear:)
+                        (SBAR
+                          (S
+                            (NP (DT the) (NN country))
+                            (VP (VBZ is)
+                              (PP (IN in)
+                                (NP
+                                  (NP (DT the) (NN grip))
+                                  (PP (IN of)
+                                    (NP (DT a) (JJ "terrible") (JJ civil) (NN war.))))))))))))))))))))
+#
+(ROOT
+  (SINV
+    (VP (VBG )
+      (NP (DT A) (JJ senior) (JJ American) (NN intelligence) (NN official)))
+    (VP (VBD said)
+      (PRT (RP on))
+      (NP (NNP Monday))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ Iranian-backed) (NN group) (NN Hizbollah))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBG training)
+                (NP
+                  (NP (NNS members))
+                  (PP (IN of)
+                    (NP (DT the) (NNP Mahdi) (NNP Army,))))))))))
+    (NP
+      (NP (DT the) (NNP Shi'ite) (NN militia))
+      (PP (IN in)
+        (NP (NNP Iraq)))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ is)
+            (VP (VBN headed)
+              (PP (IN by)
+                (NP (NNP Muqtada) (NNP al-Sadr.))))))))))
+#
+(ROOT
+  (S
+    (NP (JJ Lebanese) (JJ militant) (NN group) (NNS Hezbollah))
+    (VP (VBZ has)
+      (VP (VBN denied)
+        (NP (NNS allegations))
+        (PP (IN by)
+          (NP (NNP US) (NN intelligence) (NNS officials)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ has)
+              (VP (VBN given)
+                (S
+                  (VP (VBG training)
+                    (PP (TO to)
+                      (NP
+                        (NP (NNS members))
+                        (PP (IN of)
+                          (NP (JJ Iraqi) (NN militias.)))))))))))))))
+#
+(ROOT
+  (SINV
+    (VP (VBG )
+      (NP (DT The) (NNP U.S.) (NN military)))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS soldiers))
+          (VP (VBD were)
+            (VP (VBG conducting)
+              (NP
+                (NP (DT a) (NN search))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (NN cluster))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS buildings))
+                        (PP (IN in)
+                          (NP (DT the) (NNP Thar) (NNP Thar) (NN area))))))))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP they))
+                  (VP (VBD were)
+                    (VP (VBN fired)
+                      (NP (NN upon.)))))))))))
+    (NP
+      (NP (CD Two) (NNS insurgents))
+      (SBAR
+        (S
+          (VP (VBD were)
+            (VP (VBN killed)
+              (PP (IN by)
+                (NP
+                  (NP (NN gunfire))
+                  (CC and)
+                  (NP (CD 18) (NNS others,))))))))
+      (PP (VBG including)
+        (NP
+          (NP (CD two) (NNS women,))
+          (SBAR
+            (S
+              (VP (VBD were)
+                (VP (VBN killed)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (DT the) (NN ground) (NNS troops))
+                      (VP (VBD called)
+                        (PP (IN in)
+                          (NP (DT an) (NN air) (NN strike.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (JJ Local) (NNS officials))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT those))
+          (VP (VBD killed)
+            (SBAR
+              (S
+                (VP (VBD were)
+                  (NP
+                    (NP (NNS civilians))
+                    (: --)
+                    (PP (VBG including)
+                      (NP (CD eight) (NNS children.	)))))))))))))
+#
+(ROOT
+  (SINV
+    (VP (VBG )
+      (NP (DT The) (NNP US) (NN military)))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ has)
+            (VP (VBN killed))))))
+    (NP
+      (NP (CD 20) (VBN suspected) (NN al-Qaeda) (NNS militants))
+      (PP (IN in)
+        (NP (DT a) (NN ground)
+          (CC and)
+          (NN air) (NN assault)))
+      (PP (IN in)
+        (NP (JJ central) (NNP Iraq.))))))
+#
+(ROOT
+  (S
+    (NP (JJ Local) (NNS officials))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (QP (JJR more) (IN than) (CD two) (NN dozen))
+              (NNS civilians))
+            (PRN (: -)
+              (PP (VBG including)
+                (NP (NNS women)
+                  (CC and)
+                  (NNS children)))
+              (: -)))
+          (VP (VBD were)
+            (VP (VBN killed)
+              (PP (IN in)
+                (NP (DT the) (NN strike.))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (JJ ) (JJ Local) (NNS officials))
+      (CC and)
+      (NP (JJ Iraqi) (NNS police)))
+    (VP (VBD had)
+      (VP (VBN said)
+        (PP (IN on)
+          (NP (NNP Friday)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBD believed)
+              (SBAR
+                (S
+                  (NP (CD 32) (NNS civilians))
+                  (VP (VBD had)
+                    (VP (VBN been)
+                      (VP (VBN killed)
+                        (PP (IN in)
+                          (NP (DT the) (NN attack.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP US) (NN military))
+    (VP (VBD had)
+      (VP (VBN issued)
+        (NP (DT a) (NN statement))
+        (PP (IN on)
+          (NP (NNP Friday)))
+        (S
+          (VP (VBG saying)
+            (SBAR (IN that)
+              (S
+                (NP (CD two) (NNS women))
+                (VP (VBD were)
+                  (PP (IN among)
+                    (NP
+                      (NP (CD 20) (VBN suspected) (NN "al))
+                      (SBAR
+                        (S
+                          (NP (NNP Qaeda) (NNP terrorists"))
+                          (VP (VBD killed)
+                            (PP (IN in)
+                              (NP (DT the) (NN operation.)))))))))))))))))
+#
+(ROOT
+  (SINV
+    (VP (VBD )
+      (SBAR
+        (S
+          (NP (DT The) (NNP US) (NN army))
+          (ADVP (RB initially))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (CD four) (NNS people))
+                (VP (VBD had)
+                  (VP (VBN died)
+                    (PP (IN during)
+                      (NP (DT a) (NN raid)))
+                    (S
+                      (VP (TO to)
+                        (VP (VB find)
+                          (NP
+                            (NP (DT an) (NNP al-Qaeda) (NN supporter))
+                            (WHPP (IN in)
+                              (WHNP (WDT which)))))))))))))))
+    (NP (DT a) (NN building) (NN collapsed.))))
+#
+(ROOT
+  (S
+    (NP (JJ However,) (JJ Iraqi) (NNS police))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (CD 11) (NNS civilians,))
+            (PP (VBG including)
+              (NP
+                (NP (CD five) (NNS children))
+                (CC and)
+                (NP (CD four) (NNS women,)))))
+          (VP (VBD were)
+            (VP (VBN shot)
+              (CC and)
+              (VBN killed)
+              (PP (IN by)
+                (NP
+                  (NP (NNP US) (NNS troops))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (ADVP (RB then))
+                      (VP (VBD blew)
+                        (PRT (RP up))
+                        (NP (DT the) (NN building.))))))))))))))
+#
+(ROOT
+  (SINV
+    (VP (VBD )
+      (SBAR
+        (S
+          (NP (DT The) (NNP US) (NN army))
+          (ADVP (RB initially))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (CD four) (NNS people))
+                (VP (VBD had)
+                  (VP (VBN died)
+                    (PP (IN during)
+                      (NP (DT a) (NN raid)))
+                    (S
+                      (VP (TO to)
+                        (VP (VB find)
+                          (NP
+                            (NP (DT an) (NNP al-Qaeda) (NN supporter))
+                            (WHPP (IN in)
+                              (WHNP (WDT which)))))))))))))))
+    (NP (DT a) (NN building) (NN collapsed.))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (NNP New) (NNS allegations))
+      (PP (IN of)
+        (NP
+          (NP (DT a) (NN massacre))
+          (VP (VBG involving)
+            (NP (NNP US) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Iraq)))))))
+    (VP (VBP have)
+      (VP (VBN emerged)
+        (SBAR (IN after)
+          (S
+            (NP (DT the) (NNP BBC))
+            (VP (VBD aired)
+              (NP
+                (NP (NN footage))
+                (PP (IN of)
+                  (NP
+                    (NP (DT an) (NN incident))
+                    (SBAR
+                      (WHPP (IN in)
+                        (WHNP (WDT which)))
+                      (S
+                        (NP (CD 11) (JJ Iraqi) (NNS civilians))
+                        (VP (VBD were)
+                          (VP (VBN killed.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP ) (NNP Gunfire))
+    (VP (VBD erupted)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN dorm)
+            (CC and)
+            (NN classroom))
+          (PP (IN at)
+            (NP (NNP Virginia) (NNP Tech)))))
+      (PP (IN on)
+        (S
+          (VP
+            (VP (VBG Monday,)
+              (S
+                (VP (VBG killing)
+                  (NP
+                    (QP (IN at) (JJS least) (CD 32))
+                    (NNS people)))))
+            (CC and)
+            (VP (VBG wounding)
+              (NP
+                (NP
+                  (QP (IN at) (JJS least) (CD 20))
+                  (JJ others,) (NNS authorities))
+                (VP (VBN said.))))))))))
+#
+(ROOT
+  (S
+    (NP (DT A) (NN gunman))
+    (VP
+      (VP (VBD shot)
+        (PRT (RP dead))
+        (PRT (RP up))
+        (PP (TO to)
+          (NP (CD 31) (NNS people))))
+      (CC and)
+      (VP (VBD injured)
+        (NP
+          (NP
+            (QP (IN at) (JJS least) (CD 21) (JJR more)))
+          (PP (IN in)
+            (NP (CD two) (JJ separate) (JJ shooting) (NNS incidents))))
+        (PP (IN at)
+          (NP
+            (NP (NNP Virginia) (NNP Tech))
+            (PP (IN in)
+              (NP (NNP Blacksburg,) (NNP Va.,)))))
+        (NP (NNP Monday) (CD morning,))
+        (PP (IN in)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ is)
+                (VP (VBG being)
+                  (VP (VBN called)
+                    (NP
+                      (NP (DT the) (JJS deadliest) (NN campus))
+                      (VP (VBG shooting)
+                        (PP (IN in)
+                          (NP (NNP U.S.) (NNP history.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNPS Chinese))
+    (VP (MD may)
+      (VP (VB have)
+        (VP (VBN calculated)
+          (SBAR (IN that)
+            (S
+              (S
+                (NP (NNP Nato))
+                (VP (MD would) (RB not)
+                  (VP (VB dare)
+                    (VP (VB strike)
+                      (NP (PRP$ its) (NN embassy,))))))
+              (CC but)
+              (S
+                (NP (DT the) (JJ five-story) (NN building))
+                (VP (VBD was)
+                  (VP (VBN emptied)
+                    (NP
+                      (NP (DT every) (NN night))
+                      (PP (IN of)
+                        (NP (NN personnel.))))))))))))))
+#
+(ROOT
+  (PP (IN Despite)
+    (NP
+      (NP
+        (NP (DT the) (NN fact))
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN embassy) (NN building))
+            (VP (VBD was)
+              (VP (VBN evacuated)
+                (PP (IN of)
+                  (NP (DT all) (JJ nonessential) (NNS personnel)))
+                (PP (IN during)
+                  (NP
+                    (NP (DT the) (NNS hours))
+                    (PP (IN of)
+                      (NP (NNS darkness)))))
+                (S
+                  (VP (TO to)
+                    (VP (VB avoid)
+                      (NP
+                        (NP (DT any) (JJ potential) (NN casualties,))
+                        (SBAR
+                          (S
+                            (NP (CD three) (NNPS Chinese))
+                            (VP (VBD were)
+                              (VP (VBN killed))))))))))))))
+      (CC and)
+      (NP
+        (QP (JJR more) (IN than) (CD 20))
+        (NN injured.)))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP American) (NNP Reform) (NN party))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP (DT a) (JJ political) (NN party,))
+        (SBAR
+          (S
+            (S
+              (NP (PRP they))
+              (VP (VBP do) (RB not)
+                (VP (VB have)
+                  (NP
+                    (NP (NN ballot) (NN access))
+                    (PP (IN in)
+                      (NP (DT any) (NN state,)))))))
+            (CC and)
+            (S
+              (NP (PRP they))
+              (VP (VBP do) (RB not)
+                (VP (VB run)
+                  (NP (NN candidates.)))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP American) (NNP Reform) (NNP Party))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ minor) (JJ political) (NN party))
+        (PP (IN in)
+          (NP (DT the) (NNP United) (NNPS States)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (VP (VBN formed)
+                (PP (IN in)
+                  (NP (DT a) (JJ factional) (NN split)))
+                (PP (IN from)
+                  (NP
+                    (NP (DT the) (JJR larger) (NNP Reform) (NN Party))
+                    (PP (IN of)
+                      (NP (DT the) (NNP United) (NNPS States)))))
+                (PP (IN in)
+                  (NP (NNP October) (CD 1997.)))))))))))
+#
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP John) (NNP Chipman,))
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN head))
+            (PP (IN of)
+              (NP
+                (NP (DT The) (NNP International) (NNP Insitute))
+                (PP (IN for)
+                  (NP
+                    (NP (NNP Strategic) (NNPS Studies))
+                    (PP (IN in)
+                      (NP (NNP London,))))))))
+          (VP (VBD argued)
+            (PP
+              (PP (IN on)
+                (NP
+                  (NP (CD 1/31/2007) (JJ that,) (NN "Iran))
+                  (SBAR
+                    (S
+                      (VP (MD could)
+                        (VP (VB be)
+                          (NP
+                            (QP (RB only) (CD two)))))))))
+              (CC or)
+              (PP
+                (ADVP
+                  (NP (CD three) (NNS years))
+                  (RB away))
+                (IN from)
+                (S
+                  (VP (VBG being)
+                    (ADJP (JJ able)
+                      (S
+                        (VP (TO to)
+                          (VP (VB produce)
+                            (NP
+                              (NP (DT a) (JJ nuclear) (NN weapon...))
+                              (SBAR
+                                (S
+                                  (NP (NNP Iran))
+                                  (VP (VBD had)
+                                    (VP (VBN stockpiled)
+                                      (NP
+                                        (NP (CD 250) (NNS tonnes))
+                                        (PP (IN of)
+                                          (NP (NN uranium) (NN hexafluoride)))))))))))))))))))))
+    (X
+      (NP (CD (UF6),) (NNS which,))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NNP enriched,))
+          (VP (MD would)
+            (VP (VB be)
+              (ADJP (JJ enough)
+                (PP (IN for)
+                  (NP (CD 30))))
+              (PP (TO to)
+                (NP
+                  (QP (CD 50) (CD weapons.")))))))))))
+#
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (NNP Iran))
+        (VP (VBZ is)
+          (ADJP (JJ unlikely)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (NP (DT a) (JJ nuclear) (NN weapon))
+                  (PP (IN by)
+                    (NP (CD 2010)
+                      (CC or)
+                      (CD earlier,)))))))))
+      (CC and)
+      (S
+        (NP (DT this))
+        (VP (VBZ does) (RB not)
+          (VP (VB make)
+            (NP (DT the) (NN threat) (NN imminent.))))))))
+#
+(ROOT
+  (S
+    (NP (VBG Yueng))
+    (VP
+      (ADVP (RB initially))
+      (VBD testified)
+      (SBAR (IN that)
+        (S
+          (NP (PRP she))
+          (VP (VBD discovered)
+            (SBAR
+              (S
+                (NP (PRP she))
+                (VP (VBD was)
+                  (ADJP (JJ pregnant)
+                    (PP (IN in)
+                      (NP (NNP October) (CD 1999.)))))))))))))
+#
+(ROOT
+  (S
+    (NP (VBG Yueng))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ family-planning) (NNS officials))
+            (VP (VBN tipped)
+              (PRT (RP off))
+              (PP (IN about)
+                (NP (PRP$ her) (NN pregnancy)))))
+          (VP (VBD came)
+            (S
+              (VP (VBG looking)
+                (PP (IN for)
+                  (NP (PRP her)))
+                (PP (IN in)
+                  (NP (NNP February) (CD 1999.)))))))))))
+#
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT a) (NNP hearing,) (NNPS Neuens)
+        (CC and)
+        (NNP Kevin) (NNP Scanlan,)))
+    (NP (DT the) (JJ hospital's) (JJ human) (NNS resources) (NN director,))
+    (VP
+      (ADVP (RB initially))
+      (VBD testified)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Hughes))
+          (VP (VBD lacked)
+            (NP (JJ adequate) (NN knowledge)
+              (CC or)
+              (NN experience))
+            (PP (IN for)
+              (NP (DT the) (NN quality) (NN control) (NN officer) (NN job.)))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (NNS Neuens))
+      (CC and)
+      (NP (NNP Kevin) (NNP Scanlan)))
+    (VP
+      (ADVP (RB also))
+      (VBD admitted,)
+      (NP (NNS however,))
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (NNP Hughes))
+            (VP (VBD had)
+              (VP (VBN been)
+                (VP (VBG working)
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NNS chemicals))
+                      (PP (IN in)
+                        (NP (NN question)))))
+                  (PP (IN since)
+                    (NP (CD 1980))))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (VP (VBD had)
+              (VP (VBN been)
+                (ADJP (RB primarily) (JJ responsible))
+                (PP (IN for)
+                  (NP (NN training) (NNS employees)))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (JJ safe) (NN use))
+                    (PP (IN of)
+                      (NP (DT these) (NN chemicals.)))))))))))))
+#
+(ROOT
+  (S
+    (NP (JJ Claimant's) (NN application))
+    (VP (VBD alleged)
+      (NP
+        (NP (DT an) (NN accident))
+        (PP (IN in)
+          (NP (NNP September) (CD 1990.)))
+        (SBAR
+          (S
+            (NP (PRP He))
+            (ADVP (RB initially))
+            (VP (VBD testified)
+              (PP (TO to)
+                (NP
+                  (NP (DT a) (JJ specific) (NN accident))
+                  (SBAR
+                    (WHPP (IN in)
+                      (WHNP (WDT which)))
+                    (S
+                      (NP (PRP he))
+                      (VP (VBD hit)
+                        (SBAR
+                          (S
+                            (NP
+                              (NP (DT a) (NN pothole))
+                              (VP (VBG causing)
+                                (S
+                                  (NP (PRP him))
+                                  (VP (TO to)
+                                    (VP (VB "bottom)
+                                      (S
+                                        (VP (VBG out")
+                                          (PP (IN in)
+                                            (NP (PRP$ his) (NN seat.)))
+                                          (NP
+                                            (NP (DT The) (NN history))
+                                            (PP (VBN provided)
+                                              (PP (TO to)
+                                                (NP (PRP$ his) (JJ treating) (NN doctor))))))))))))
+                            (VP (VBD alleged)
+                              (NP (DT a) (JJ specific) (NN incident))
+                              (PP (IN in)
+                                (NP
+                                  (NP (NNP February))
+                                  (CC or)
+                                  (NP (NNP March) (CD 1991.)))))))))))))))))))
+#
+(ROOT
+  (SINV
+    (PP (IN In)
+      (NP (CD 1992,) (NN claimant)))
+    (VP (VBD testified)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ his) (NN pain))
+          (VP (VBD began)
+            (S
+              (VP (VBG getting)
+                (ADVP (RBR worse))
+                (NP
+                  (QP (CD four) (TO to) (CD five))
+                  (NNS months))))
+            (PP (IN after)
+              (NP
+                (NP (NN treatment))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP September))
+                    (PP (IN of)
+                      (NP (CD 1990.)))))))))))
+    (NP
+      (NP (DT The) (NNS records))
+      (PP (IN of)
+        (NP (PRP$ his) (JJ treating) (NN doctor)))
+      (NP
+        (NP (VBN indicated) (NN pain))
+        (PP (IN with)
+          (NP (DT no) (JJ known) (NN trauma.)))))))
+#
+(ROOT
+  (S
+    (NP (DT A) (JJ common) (NN situation))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN witness))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ testifies)
+              (SBAR
+                (S
+                  (NP (DT the) (NN light))
+                  (VP (VBD was)
+                    (ADJP (JJ green)
+                      (PP (IN at)
+                        (NP (NN trial.))))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT a) (JJ prior) (NN deposition)))
+    (NP (DT the) (NN witness))
+    (VP (VBD insisted)
+      (SBAR
+        (S
+          (NP (DT the) (NN light))
+          (VP (VBD was)
+            (ADJP (JJ red.	))))))))
+#
+(ROOT
+  (SBAR (IN Since)
+    (S
+      (NP (NNP Dolan))
+      (VP (VBD was)
+        (VP (VBN paid)
+          (PP (IN for)
+            (NP
+              (NP (CD nine) (JJ consecutive) (NNS weeks,))
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN referee))
+                    (PP (IN for)
+                      (NP (DT the) (NNP Appeals) (NNP Tribunal))))
+                  (VP (VBD found)
+                    (SBAR
+                      (S
+                        (NP
+                          (NP (NN payment))
+                          (PP (TO to)
+                            (NP
+                              (NP (NNP Dolan))
+                              (PP (IN for)
+                                (NP (PRP$ his) (VBG waiting) (NN week))))))
+                        (VP (VBD was)
+                          (VP (VBN appropriate.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NN division))
+    (VP (VBD argued)
+      (PP (IN on)
+        (NP (NN appeal)))
+      (SBAR (IN that)
+        (S
+          (SBAR (IN since)
+            (S
+              (NP (DT the) (NN referee))
+              (VP (VBD found)
+                (SBAR
+                  (S
+                    (NP (NNP Dolan))
+                    (VP (VBD had)
+                      (VP (VBN been)
+                        (ADJP (VBN overpaid)
+                          (PP (IN for)
+                            (NP
+                              (NP (DT those) (CD two) (NNS weeks,))
+                              (SBAR
+                                (WHNP (WDT which))
+                                (S
+                                  (VP (MD would)
+                                    (VP (VB have)
+                                      (VP (VBN been)
+                                        (NP
+                                          (NP (NNS weeks) (CD eight)
+                                            (CC and)
+                                            (CD nine))
+                                          (PP (IN of)
+                                            (NP
+                                              (NP (PRP$ his) (CD nine) (JJ consecutive) (NNS weeks))
+                                              (PP (IN of)
+                                                (NP (NNP benefits,) (NNP Dolan)))))))))))))))))))))
+          (VP (VBD was)
+            (ADVP (RB technically))
+            (VP
+              (ADVP (RB only))
+              (VBN paid)
+              (PP (IN for)
+                (NP
+                  (NP (CD seven) (JJ consecutive) (NNS weeks))
+                  (PP (IN of)
+                    (NP (NNP benefits,)))))
+              (S
+                (VP (VBG making)
+                  (NP
+                    (NP (NN payment))
+                    (PP (IN for)
+                      (NP (DT the) (VBG waiting) (NN week) (NN improper.)))))))))))))
+#
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (CD one) (NN point)))
+    (NP (NNP Zain))
+    (VP (VBD had)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (DT the) (NN blood))
+            (VP (VBD was)
+              (NP (DT the) (NN defendant's.)))))))))
+#
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT another) (NN point,)))
+    (NP (NNP Zain))
+    (VP (VBD had)
+      (VP (VBN identified)
+        (NP (DT the) (NN blood))
+        (PP (IN as)
+          (NP (DT the) (NN victim's.)))))))
+#
+(ROOT
+  (SINV
+    (S
+      (PP (IN In)
+        (NP (DT a) (NNP June) (CD 10)))
+      (NP (NNP deposition,) (NNP Youssef))
+      (VP (VBD claimed)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBZ is)
+              (NP
+                (NP (DT no) (NN record))
+                (VP (VBG documenting))))))))
+    (VP (VBD increased) (JJ damaged)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN cathedral))
+          (PP (IN since)
+            (NP
+              (NP (DT the) (JJS latest) (NN report))
+              (PP (IN in)
+                (NP (NNP September) (CD 1995,))))))))
+    (NP (NNP O'Brien) (NNP said.))))
+#
+(ROOT
+  (FRAG (CC But)
+    (PP (IN on)
+      (NP
+        (NP (DT a) (NNP June) (CD 7) (NN videotape))
+        (VP (VBN submitted)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN court,))
+              (SBAR
+                (S
+                  (NP (DT the) (NN judge))
+                  (VP (VBD said)
+                    (SBAR
+                      (S
+                        (NP (NNP Youssef))
+                        (VP (VBD identified)
+                          (NP
+                            (NP (JJ new) (NNS cracks))
+                            (SBAR
+                              (WHNP (WDT that))
+                              (S
+                                (VP (VBN developed)
+                                  (PP (IN after)
+                                    (NP (DT the) (NNP May) (CD 23) (NN quake.))))))))))))))))))))
+#
+(ROOT
+  (SINV
+    (VP (VBG Gregg)
+      (S
+        (VP (VBG Miner,)
+          (NP (DT the) (JJ company's) (JJ general) (NN manager,))
+          (ADVP (RB originally)))))
+    (VP (VBD stated)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP
+              (NP (DT the) (NN management) (NN team))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD selected)))))))))
+    (NP
+      (NP (DT the) (NN supervisor))
+      (PP (IN for)
+        (NP (DT the) (NNP RIF.))))))
+#
+(ROOT
+  (S
+    (NP (NNP Gregg) (NNP Miner))
+    (VP (VBD acknowledged)
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (ADVP (RB probably))
+          (VP (VBD had)
+            (VP (VBN been)
+              (NP (DT the) (NN one)
+                (S
+                  (VP (TO to)
+                    (VP (VB select)
+                      (NP
+                        (NP (NNP Whittington))
+                        (PP (IN for)
+                          (NP (DT the) (NNP RIF.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Dr.) (NNP Long-Gue) (NNP Hu,) (NNPS JCMC's) (NN chief) (NNP obstetric/gynecological) (NNP resident,))
+    (VP
+      (VP (VBN reviewed)
+        (NP (DT the) (NNP August) (CD 13) (NN sonogram)))
+      (CC but)
+      (VP (VBD did) (RB not)
+        (VP (VB detect)
+          (S
+            (S
+              (NP (NNP spina) (NNP bifida.) (NNP Hu))
+              (VP (VBD testified)
+                (SBAR
+                  (S
+                    (NP (DT the) (NNP August) (CD 13) (NN sonogram))
+                    (VP (VBD was)
+                      (ADVP (RB probably))
+                      (VP (VBN taken)
+                        (PP (IN at)
+                          (NP (NNP FHC,)))))))))
+            (CC and)
+            (S
+              (NP (PRP he))
+              (ADVP (RBS most) (RB probably))
+              (VP (VBN reviewed)
+                (NP (PRP it))
+                (PP (IN on)
+                  (NP (DT that) (NN date.)))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Dr.) (NNP Long-Gue) (NNP Hu))
+    (VP (VBD determined)
+      (SBAR
+        (S
+          (S
+            (NP (DT the) (NNP August) (CD 13) (NN sonogram))
+            (VP (VBD was)
+              (VP (VBN taken)
+                (PP (IN at)
+                  (NP (NNP JCMC,))))))
+          (CC and)
+          (S
+            (NP (PRP he))
+            (ADVP (RB probably))
+            (VP (VBD did) (RB not)
+              (VP (VB review)
+                (NP (PRP it))
+                (PP (IN until)
+                  (NP
+                    (NP (DT the) (NN end))
+                    (PP (IN of)
+                      (NP (NNP August.)))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NN defendant))
+    (VP (VBD argued)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Likens))
+          (VP (VBD was) (RB not)
+            (ADJP (VBN qualified)
+              (S
+                (VP (TO to)
+                  (VP (VB give)
+                    (NP (DT either))
+                    (NP
+                      (NP
+                        (NP (DT an) (NN expert) (NN opinion))
+                        (PP (IN under)
+                          (NP (NNP Ind.Evid.Rule) (CD 702))))
+                      (CC or)
+                      (NP
+                        (NP (DT a) (JJ lay) (NN opinion))
+                        (PP (IN under)
+                          (NP (NNP Ind.Evid.Rule) (CD 701.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NN court))
+    (VP
+      (VP (VBD disagreed))
+      (CC and)
+      (VP (VBD found)
+        (SBAR (IN that)
+          (S
+            (SBAR (IN while)
+              (S
+                (NP (NNP Likens))
+                (VP (VBD was) (RB not)
+                  (ADJP (RB sufficiently) (VBN qualified)
+                    (PP (IN as)
+                      (NP
+                        (NP (DT an) (NN expert))
+                        (PP (IN under)
+                          (NP (NNP Rule) (CD 702,)))))))))
+            (NP (PRP he))
+            (VP (VBD was)
+              (ADJP (VBN qualified)
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (JJ skilled) (NN witness))
+                    (PP (IN under)
+                      (NP (NNP Rule) (CD 701.)))))))))))))
+#
+(ROOT
+  (NP
+    (NP (JJ Official) (NN ticket) (NNS sales))
+    (PP (IN for)
+      (NP
+        (NP (DT the) (NNP Cure's) (NN tour) (NN haven't))
+        (VP (VBN been)
+          (VP (VBN released)
+            (NP (NN yet.))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP Cure's) (NN management))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (NNS venues))
+          (VP (VBP have)
+            (VP (VBN been)
+              (VP (VBG selling)
+                (ADVP (RB close)
+                  (PP (TO to)
+                    (NP (NN capacity.))))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP$ Her) (NNP lawyer,) (NNP Richard) (NN Herman,))
+    (VP (VBD had)
+      (ADVP (RB previously))
+      (VP (VBN insisted)
+        (SBAR
+          (S
+            (NP (NNP Knight))
+            (VP
+              (VP (VBD was)
+                (NP (DT a) (JJ "normal) (JJ young) (NN woman"))
+                (PP (IN with)
+                  (NP (DT no) (JJ mental) (NNS problems))))
+              (CC and)
+              (VP (VBD said)
+                (SBAR
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD had)
+                      (VP (VBN written)
+                        (NP
+                          (NP (DT a) (NN letter))
+                          (PP (IN of)
+                            (NP (NN apology))))
+                        (PP (TO to)
+                          (NP (NNP Zeta-Jones)
+                            (CC and)
+                            (NNP Douglas.)))))))))))))))
+#
+(ROOT
+  (FRAG (CC But)
+    (PP (IN after)
+      (NP
+        (NP (DT the) (CD two) (NNP Hollywood) (NNS stars))
+        (VP (VBN delivered)
+          (NP (JJ chilling) (NN testimony))
+          (PP (IN at)
+            (NP
+              (NP (DT a) (JJ preliminary) (NN hearing))
+              (PP (IN in)
+                (NP
+                  (NP (NNP July,) (NNP Mr) (NNP Herman))
+                  (VP (VBN told)
+                    (NP (NNS reporters))
+                    (SBAR (IN that)
+                      (S
+                        (S
+                          (NP (NNS "what's))
+                          (ADVP (RB actually))
+                          (VP (VBD happened)
+                            (SBAR
+                              (S
+                                (VP (VBZ is)
+                                  (SBAR (IN that)
+                                    (S
+                                      (NP (NNP Catherine) (NNP Zeta-Jones))
+                                      (VP (VBZ has)
+                                        (VP (VBN driven)
+                                          (S
+                                            (NP (NNP Dawnette))
+                                            (VP (TO to)
+                                              (VP (VB attempt)
+                                                (NP (NN suicide))))))))))))))
+                        (CC and)
+                        (S
+                          (NP (DT the) (JJ real) (NN blood))
+                          (VP (VBZ is)
+                            (PP (IN on)
+                              (NP (PRP$ her) (NN hands".)))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NN hearing))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (VP (VBN halted)
+        (PP (IN on)
+          (S
+            (VP (VBG Thursday,)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT the) (NN defense) (NN attorney))
+                  (VP (VBD said)
+                    (SBAR
+                      (S
+                        (NP (PRP$ his) (NN client))
+                        (VP (VBD was)
+                          (ADVP (RB still))
+                          (ADJP (JJ groggy)
+                            (PP (IN after)
+                              (S
+                                (VP (VBG taking)
+                                  (NP (VBG sleeping) (NNS pills))))))
+                          (SBAR (IN because)
+                            (S
+                              (NP (PRP she))
+                              (VP (VBD wanted)
+                                (NP (DT a) (JJ good) (NN night's) (NN sleep.))))))))))))))))))
+#
+(ROOT
+  (FRAG (CC But)
+    (PP (IN on)
+      (NP
+        (NP (NNP Friday))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)
+                    (NP (DT an) (VBN attempted) (NN suicide))
+                    (PP (IN by)
+                      (NP
+                        (NP (DT an) (NN overdose))
+                        (PP (IN of)
+                          (NP (NN barbiturates.)))))))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN transition))
+      (PP (TO to)
+        (NP (DT the) (NNP younger) (NNP Mr) (NNP Lee))))
+    (VP (VBP "will) (RB not)
+      (VP (VB offer)
+        (NP (JJ much) (NN comfort))
+        (PP (TO to)
+          (NP
+            (NP (DT those))
+            (VP (VBG seeking)
+              (S
+                (ADJP (RBR more) (JJ openness,")
+                  (SBAR
+                    (S
+                      (NP (PRP he))
+                      (VP (VBD said,)
+                        (SBAR
+                          (S
+                            (NP (NNS "his) (NNS speeches))
+                            (VP
+                              (ADVP (RB very) (RB much))
+                              (VBP resemble)
+                              (NP (PRP$ his) (NN father's.")))))))))))))))))
+#
+(ROOT
+  (S (CC But)
+    (NP (NNP Steve))
+    (VP (VBD Chia,)
+      (SBAR
+        (S
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP
+                (NP (NNP Singapore's) (JJ few) (JJ non-PAP) (NNS politicians))
+                (CC and)
+                (NP (DT a) (JJ vocal) (NN government) (NN critic,)))))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD expected)
+                  (NP (NNP Mr) (NNPS Lee's) (NN leadership))
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP
+                          (ADJP (JJ "more) (JJ open))
+                          (CC and)
+                          (ADJP (JJ consultative",) (RB particularly)
+                            (PP (IN on)
+                              (NP (JJ social) (NN issues.)))))))))))))))))
+#
+(ROOT
+  (SBAR
+    (WHADVP (WRB When))
+    (S
+      (NP (PRP$ his) (NNS friends))
+      (VP (VBD cut)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN cord))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD had)
+                    (VP (VBN tied)
+                      (NP (PRP$ his) (NN lawnchair))
+                      (PP (TO to)
+                        (NP (PRP$ his) (JJ jeep,) (JJ Walters') (NN lawnchair))))))))
+            (ADVP (RB quickly))
+            (VP (VBD rose)
+              (PP (TO to)
+                (NP
+                  (NP (DT a) (NN height))
+                  (PP (IN of)
+                    (NP
+                      (QP (RB about) (CD 16,000))
+                      (NNS feet)))))
+              (NP
+                (NP (CD (4,876) (NN m);))
+                (VP (VBG fearing)
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP he))
+                      (VP (MD might)
+                        (VP (VB get)
+                          (NP (PRP himself))
+                          (PP (IN into)
+                            (NP
+                              (NP
+                                (ADJP (RB even) (JJR deeper))
+                                (NNS trouble,))
+                              (SBAR
+                                (S
+                                  (NP (PRP he))
+                                  (VP (VBD did) (RB not)
+                                    (VP (VB dare)
+                                      (VP (VB shoot)
+                                        (NP (DT any) (NN balloons,))
+                                        (PP (RB instead)
+                                          (S
+                                            (VP
+                                              (VP (VBG drifting)
+                                                (PP (IN over)
+                                                  (NP (NNP Los) (NNP Angeles))))
+                                              (CC and)
+                                              (VP (VBG crossing)
+                                                (NP
+                                                  (NP (DT the) (JJ primary) (NN approach) (NN corridor))
+                                                  (PP (IN of)
+                                                    (NP (NNP Los) (NNP Angeles) (NNP International) (NNP Airport.))))))))))))))))))))))))))))
+#
+(ROOT
+  (SBAR
+    (WHADVP (WRB When))
+    (S
+      (NP (PRP$ his) (NNS friends))
+      (VP (VBD cut)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN cord))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD had)
+                    (VP (VBN tied)
+                      (NP (PRP$ his) (NN lawnchair))
+                      (PP (TO to)
+                        (NP (PRP$ his) (JJ jeep,) (JJ Walters') (NN lawnchair))))))))
+            (ADVP (RB quickly))
+            (VP (VBD rose)
+              (PP (TO to)
+                (NP
+                  (NP (DT a) (NN height))
+                  (PP (IN of)
+                    (NP
+                      (QP (RB about) (CD 16,000))
+                      (NNS feet)))))
+              (NP
+                (NP (CD (4,876) (NN m);))
+                (VP (VBG fearing)
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP he))
+                      (VP (MD might)
+                        (VP (VB get)
+                          (NP (PRP himself))
+                          (PP (IN into)
+                            (NP
+                              (NP
+                                (ADJP (RB even) (JJR deeper))
+                                (NNS trouble,))
+                              (SBAR
+                                (S
+                                  (NP (PRP he))
+                                  (VP (VBD did) (RB not)
+                                    (VP (VB dare)
+                                      (VP (VB shoot)
+                                        (NP (DT any) (NN balloons,))
+                                        (PP (RB instead)
+                                          (S
+                                            (VP
+                                              (VP (VBG drifting)
+                                                (PP (IN over)
+                                                  (NP (NNP Long) (NNP Beach))))
+                                              (CC and)
+                                              (VP (VBG crossing)
+                                                (NP
+                                                  (NP (DT the) (JJ primary) (NN approach) (NN corridor))
+                                                  (PP (IN of)
+                                                    (NP (NNP Long) (NNP Beach) (NNP airport.))))))))))))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD went)
+      (PRT (RP on))
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP (CD 45) (JJ 4-foot-diameter) (NN weather) (NNS balloons))
+            (PP (IN in)
+              (NP
+                (NP (DT an) (JJ army-navy) (NN surplus) (NN store,))
+                (VP
+                  (VP (VBG attaching)
+                    (NP (PRP them))
+                    (PP (TO to)
+                      (NP (PRP$ his) (NN lawnchair))))
+                  (CC and)
+                  (ADVP (RB then))
+                  (VP (VBG filling)
+                    (NP (PRP them))
+                    (PP (IN with)
+                      (NP (NNP helium)))
+                    (PP (IN after)
+                      (S
+                        (VP
+                          (VP (VBG donning)
+                            (NP (DT a) (NN parachute)))
+                          (CC and)
+                          (VP (VBG strapping)
+                            (NP (PRP himself))
+                            (PP (TO to)
+                              (NP
+                                (NP (DT the) (NN chair))
+                                (PP (IN with)
+                                  (NP
+                                    (NP (DT a) (NN pellet))
+                                    (VP (VBG gun,)
+                                      (NP
+                                        (NP (DT a) (NNP CB) (NNP radio,))
+                                        (SBAR
+                                          (S
+                                            (NP
+                                              (NP (DT some) (JJ sandwiches,) (JJ soft) (NN drinks,))
+                                              (CC and)
+                                              (NP (DT a) (JJ camera;) (CD however,) (NNS things)))
+                                            (VP (VBD did) (RB not)
+                                              (VP (VB work)
+                                                (PRT (RP out))
+                                                (SBAR (IN as)
+                                                  (S
+                                                    (NP (PRP he))
+                                                    (VP (VBD had)
+                                                      (VP (VBN planned.)))))))))))))))))))))))))))))
+#
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (PRP He))
+        (CC and)
+        (NP (PRP$ his) (NN girlfriend)))
+      (VP (VBD purchased)
+        (NP (CD 45) (JJ four-foot) (NN weather) (NNS balloons)
+          (CC and)
+          (NN helium) (NNS tanks))
+        (PP (IN at)
+          (NP (DT a) (NN store)))))
+    (VP (VBD called))
+    (NP (NNP California) (NNP Toy) (NNP Time) (NNP Balloons.))))
+#
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (CD 20))
+        (NP (NNP January) (CD 1986,))))
+    (NP (DT a) (JJ military) (NN coup))
+    (VP (VBD led)
+      (PP (IN by)
+        (NP
+          (NP (NNP Major) (NNP General) (NNP Justin) (NNP Metsing) (NNP Lekhanya))
+          (VP (VBN deposed)
+            (NP (DT the) (NNP Jonathan) (NN government.))))))))
+#
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (CD 15))
+        (NP (NNP January) (CD 1986,))))
+    (NP (DT a) (JJ military) (NN coup))
+    (VP (VBD led)
+      (PP (IN by)
+        (NP
+          (NP (NNP Major) (NNP General) (NNP Justin) (NNP Metsing) (NNP Lekhanya))
+          (VP (VBN deposed)
+            (NP (DT the) (NNP Jonathan) (NN government.))))))))
+#
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (CD five) (NNS tenses))
+        (PP (IN in)
+          (NP
+            (NP (NNP Low) (NNP German:) (NNP Present) (NNP tense,) (NNP Preterite,) (NNP Perfect,) (NNP Past) (NNP Perfect,))
+            (CC and)
+            (NP (NNP Future.))))))))
+#
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (CD four) (NNS tenses))
+        (PP (IN in)
+          (NP
+            (NP (NNP Low) (NNP German:) (NNP Present) (NNP tense,) (NNP Preterite,) (NNP Perfect,))
+            (CC and)
+            (NP (NNP Pluperfect.))))))))
+#
+(ROOT
+  (S
+    (NP (NNS Historians))
+    (VP (NN estimate)
+      (SBAR (IN that)
+        (S
+          (S
+            (NP
+              (NP
+                (QP (RB about) (CD 20%)))
+              (PP (IN of)
+                (NP (DT the) (JJ white) (NN population))))
+            (VP (MD may)
+              (VP (VB have)
+                (VP (VBN been)
+                  (NP
+                    (NP (NNP Loyalists) (NN (that) (NN is,))
+                    (PP (IN about)
+                      (NP (CD 500,000),))))))))
+          (CC but)
+          (S
+            (NP (EX there))
+            (VP (VBP are)
+              (NP (DT no) (JJ exact) (NN numbers.)))))))))
+#
+(ROOT
+  (S
+    (NP (NNS Historians))
+    (VP (NN estimate)
+      (SBAR (IN that)
+        (S
+          (S
+            (NP
+              (NP
+                (QP (RB about) (CD 5%)))
+              (PP (IN of)
+                (NP (DT the) (JJ white) (NN population))))
+            (VP (MD may)
+              (VP (VB have)
+                (VP (VBN been)
+                  (NP
+                    (NP (NNP Loyalists) (NN (that) (NN is,))
+                    (PP (IN about)
+                      (NP (CD 100,000),))))))))
+          (CC but)
+          (S
+            (NP (EX there))
+            (VP (VBP are)
+              (NP (DT no) (JJ exact) (NN numbers.)))))))))
+#
+(ROOT
+  (FRAG
+    (ADVP (RB However))
+    (SBAR (IN once)
+      (S
+        (NP (NN independence))
+        (VP (VBD was)
+          (VP (VBN declared)
+            (PP (IN in)
+              (NP
+                (NP (CD 1776) (NNS Loyalists))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD continued)
+                      (S
+                        (VP (TO to)
+                          (VP (VB support)
+                            (S
+                              (S
+                                (NP (DT the) (NNP Crown))
+                                (VP (VBD were)
+                                  (VP (VBN treated)
+                                    (PP (IN by)
+                                      (NP (DT the) (NNPS Patriots)))
+                                    (PP (IN as)
+                                      (NP
+                                        (NP (NNS traitors))
+                                        (SBAR
+                                          (WHNP (WP who))
+                                          (S
+                                            (VP
+                                              (VP (VBD turned)
+                                                (PP (IN against)
+                                                  (NP (PRP$ their) (JJ fellow) (NNS citizens))))
+                                              (CC and)
+                                              (VP (VBD collaborated)
+                                                (PP (IN with)
+                                                  (NP
+                                                    (NP (DT a) (JJ foreign) (NN army.))
+                                                    (SBAR
+                                                      (S
+                                                        (NP (PRP They))
+                                                        (VP (VBD were)
+                                                          (ADJP (JJ expelled,)
+                                                            (CC or)
+                                                            (JJ disarmed,))))))))))))))))
+                              (CC but)
+                              (S
+                                (NP (NN none))
+                                (VP (VBD were)
+                                  (VP (VBN tried)
+                                    (PP (IN for)
+                                      (NP (NNS treason)
+                                        (CC or)
+                                        (NN executed.)))))))))))))))))))))
+#
+(ROOT
+  (SBAR
+    (WHADVP (RB However))
+    (S
+      (NP
+        (ADJP (RB relatively) (JJ few))
+        (NNP Loyalist) (NNS civilians))
+      (VP (VBP are)
+        (VP (VBN thought)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (VP (VBN been)
+                  (VP (VBN killed)
+                    (PP (IN by)
+                      (S
+                        (VP (VBG mobs;)
+                          (SBAR
+                            (S
+                              (NP
+                                (NP (CD two) (NNS men))
+                                (PP (IN in)
+                                  (NP (NNP Philadelphia))))
+                              (VP (VBD were)
+                                (ADVP (RB officially))
+                                (VP (VBN executed)
+                                  (PP (IN for)
+                                    (S
+                                      (VP (VBG supporting)
+                                        (NP (DT the) (NNP British.))))))))))))))))))))))
+#
+(ROOT
+  (FRAG
+    (NP (NNP Alain) (NNP Choquet) (NNP (born) (NNP October) (NNP 18,) (NNP 1901))
+    (: -)
+    (S
+      (NP
+        (NP
+          (ADJP (JJ dead)
+            (NP (NNP October) (CD 29,)))
+          (NNS 1991))
+        (PP (IN at)
+          (NP (NNP Saint-Laurent))))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NNP Quebec) (NN actor))
+          (CC and)
+          (NP (VBG recording) (NN artist.)))))))
+#
+(ROOT
+  (SINV
+    (PP (IN In)
+      (NP
+        (NP (CD 2002,))
+        (PP (IN with)
+          (NP (NNP Pierre) (NNP René,) (NNP Choquet)))))
+    (VP (VBD formed))
+    (NP (NNP Disques) (FW La) (NNP Julienne.))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP American) (NNP Reform) (NNP Party))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ minor) (JJ political) (NN party))
+        (PP (IN in)
+          (NP (DT the) (NNP United) (NNPS States)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (VP (VBN formed)
+                (PP (IN in)
+                  (NP (DT a) (JJ factional) (NN split)))
+                (PP (IN from)
+                  (NP
+                    (NP (DT the) (JJR larger) (NNP Reform) (NN Party))
+                    (PP (IN of)
+                      (NP (DT the) (NNP United) (NNPS States)))))
+                (PP (IN in)
+                  (NP (NNP October) (CD 1997.)))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (NNP American) (NNP Reform) (NNP Party))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP (DT a) (JJ political) (NN party,))
+        (SBAR
+          (S
+            (S
+              (NP (PRP they))
+              (VP (VBP do) (RB not)
+                (VP (VB have)
+                  (NP
+                    (NP (NN ballot) (NN access))
+                    (PP (IN in)
+                      (NP (DT any) (NN state,)))))))
+            (CC and)
+            (S
+              (NP (PRP they))
+              (VP (VBP do) (RB not)
+                (VP (VB run)
+                  (NP (NN candidates.)))))))))))
+#
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP
+          (NP (CD 23) (NNP December) (CD 1990,))
+          (NP
+            (QP (JJR less) (IN than) (CD two))
+            (NNS weeks)))
+        (PP (IN before)
+          (NP
+            (NP (NNP Tammy's) (NNP 16th) (NNP birthday,) (NNP Karla) (NNP Homolka))
+            (CC and)
+            (NP (PRP$ her) (NN fiancé,))))))
+    (NP (NNP Paul) (NNP Bernardo,))
+    (VP
+      (VP (VBD plied)
+        (NP (NNP Tammy))
+        (PP (IN with)
+          (S
+            (VP (VBG Halcion,)
+              (NP (DT a) (NN sedative,))))))
+      (CC and)
+      (VP (VBD raped)
+        (NP (NN her.))))))
+#
+(ROOT
+  (S
+    (NP (NNP Karla) (NNP Homolka))
+    (VP
+      (VP
+        (ADVP (RB eventually))
+        (VBD conceded))
+      (CC and)
+      (VP (VBD obtained)
+        (NP
+          (NP (DT a) (NN bottle))
+          (PP (IN of)
+            (NP (NNP Halothane) (NNP (a)
+              (ADJP (JJ liquid) (JJ general))
+              (NNS anesthetic)))))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (JJ veterinary) (NN clinic))
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP she))
+                (VP (VBZ worked,)
+                  (SBAR (IN that)
+                    (S
+                      (VP (MD would)
+                        (ADVP (RB later))
+                        (VP (VB be)
+                          (VP (VBN used)
+                            (PP (TO to)
+                              (NP (JJ sedate) (NNP Tammy)))
+                            (PP (IN during)
+                              (NP (DT the) (NN rape.)))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (NNP Originally) (NNPS Tarantino's) (NNP screenplay))
+    (VP (VBD began)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ same) (JJ "I'd) (NN fuck) (NN Elvis") (NN scene,))
+          (VP (VBN set)
+            (PP (IN before)
+              (NP
+                (NP (DT the) (VBG opening) (NN credits,))
+                (PP (IN as)
+                  (NP (DT the) (NN release.)))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ first) (NN scene))
+      (PP (IN in)
+        (NP (NNP Tarantino's) (NN script))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN scene))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (NNP Drexl))
+            (VP (VBZ steals)
+              (NP (DT the) (NN cocaine.)))))))))
+#
+(ROOT
+  (PP (IN In)
+    (NP
+      (NP (DT the) (NNP book,) (NNP Suskind) (NNP writes,))
+      (PP (IN among)
+        (NP (JJ other) (NNS things,)))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS sources))
+            (PP (IN in)
+              (NP (DT the) (NN intelligence) (NN community))))
+          (VP (VBD revealed)
+            (PP (TO to)
+              (NP (PRP him)))
+            (SBAR (IN that)
+              (S
+                (NP (NNP Abu) (NNP Zubaydah))
+                (VP
+                  (VP (VBD knew)
+                    (NP (NN nothing))
+                    (PP (IN about)
+                      (NP
+                        (NP (DT the) (NNS operations))
+                        (PP (IN of)
+                          (NP (NNP al-Qaeda,))))))
+                  (CC but)
+                  (VP
+                    (ADVP (RB rather))
+                    (VBD was)
+                    (NP
+                      (NP (JJ al-Qaeda's) (JJ go-to) (NN guy))
+                      (PP (IN for)
+                        (NP
+                          (NP (JJ minor) (NNS logistics))
+                          (PP (JJ such) (IN as)
+                            (NP
+                              (NP (NN travel))
+                              (PP (IN for)
+                                (NP (NNS wives)
+                                  (CC and)
+                                  (NN children.))))))))))))))))))
+#
+(ROOT
+  (FRAG
+    (NP (NNP Abu) (NNP Zubaydah) (NNP was,))
+    (PP (VBG according)
+      (PP (TO to)
+        (NP
+          (NP (NNP American))
+          (VP (VBG authorities,)
+            (NP
+              (NP
+                (NP (DT a) (JJ high-ranking) (NN member))
+                (PP (IN of)
+                  (NP (NNP al-Qaeda))))
+              (CC and)
+              (NP
+                (NP (JJ close) (NN associate))
+                (PP (IN of)
+                  (NP (NNP Osama) (NNP bin) (NNP Laden,)))))
+            (SBAR (IN though)
+              (S
+                (NP (EX there))
+                (VP (VBP are)
+                  (NP
+                    (NP (NNS doubts))
+                    (PP (IN of)
+                      (NP
+                        (NP (PRP$ his) (NN power)
+                          (CC and)
+                          (NNS connections))
+                        (ADJP (JJ due)
+                          (PP (TO to)
+                            (NP
+                              (NP (DT the) (NN fact))
+                              (SBAR (IN that)
+                                (S
+                                  (NP (JJS most) (NN information))
+                                  (VP (VBD came)
+                                    (PP (IN from)
+                                      (NP (NNS interrogations)))
+                                    (SBAR
+                                      (WHADVP (WRB where))
+                                      (S
+                                        (NP (NNP Zubaydah))
+                                        (VP (VBD was)
+                                          (VP (VBN known)
+                                            (S
+                                              (VP (TO to)
+                                                (VP
+                                                  (ADVP (RB vastly))
+                                                  (VB exaggerate)
+                                                  (NP (PRP$ his)
+                                                    (CC and)
+                                                    (JJ al-Quaeda's) (NN role))
+                                                  (PP (IN in)
+                                                    (NP (JJ international) (NN terror.))))))))))))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (DT The) (JJ first) (NN BBS,) (NN ALOHA.net,))
+    (VP (VBD was)
+      (VP (VBN created)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NNP University))
+            (PP (IN of)
+              (NP (NNP Hawaii)))))
+        (PP (IN in)
+          (NP (CD 1972.)))))))
+#
+(ROOT
+  (SINV
+    (VP (VBN Snowed)
+      (PP (IN in) (IN during)
+        (NP
+          (NP (DT The) (NNP Great) (NNP Chicago) (NNP Snowstorm))
+          (PP (IN of)
+            (NP (CD 1978,)))
+          (SBAR
+            (S
+              (NP (NNP Ward) (NNP Christensen))
+              (VP (VBD began)
+                (NP (JJ preliminary) (NN work))
+                (PP (IN on)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP (MD would)
+                        (ADVP (RB eventually))
+                        (VP (VB become)
+                          (NP (DT the) (JJ first) (NN BBS))
+                          (S
+                            (VP (TO to)
+                              (VP (VB exist.)
+                                (NP (DT The) (JJ first) (JJ BBS,) (NN CBBS,))))))))))))))))
+    (VP (VBD went)
+      (PP (NN online)
+        (PP (IN on)
+          (NP (NNP February) (CD 16,))
+          (ADVP
+            (NP (CD 1978))
+            (IN in)))))
+    (NP (NNP Chicago,) (NNP Illinois.))))
+#
+(ROOT
+  (S
+    (NP (NNP Minesweeper))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ single-player) (NN computer) (NN game))
+        (VP (VBN invented)
+          (PP (IN by)
+            (NP
+              (NP (NNP Robert) (NNP Donner))
+              (PP (IN in)
+                (NP (CD 1989.))))))))))
+#
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN version))
+        (PP (IN on)
+          (NP (DT a) (NNS Tektronix) (CD 4051) (IN around) (CD 1981,))))
+      (SBAR (CC but)
+        (S
+          (NP
+            (NP (DT the) (NN tradition))
+            (PP (IN of)
+              (S
+                (VP (VBG passing)
+                  (PP (IN around)
+                    (NP (DT a) (JJ 'games) (NN tape')))))))
+          (VP (VBZ goes)
+            (PRT (RP back))
+            (PP (TO to)
+              (NP
+                (QP (IN at) (JJS least) (CD 1973.))))
+            (SBAR
+              (S
+                (NP (DT This) (NN tape))
+                (ADVP (RB even))
+                (VP (VBZ contains)
+                  (NP
+                    (NP (DT a) (CD 3D) (NN version))
+                    (PP (IN of)
+                      (NP (NN minesweeper.)))
+                    (SBAR
+                      (S
+                        (NP
+                          (NP (DT The) (NN author))
+                          (PP (IN of)
+                            (NP (DT this) (NNP game,) (NNP David) (NNP Ahl))))
+                        (VP (VBZ is)
+                          (NP
+                            (NP (DT a) (JJ crucial) (NN figure))
+                            (PP (IN in)
+                              (NP
+                                (NP (DT the) (JJ early) (NN history))
+                                (PP (IN of)
+                                  (NP (NN computer) (NN games.)))))))))))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN criticized)
+          (PP (IN as)
+            (NP
+              (NP
+                (NP (JJ pseudoscientific) (NN quackery))
+                (PP (IN by)
+                  (NP (JJS most) (JJ professional) (NNS scientists))))
+              (CC and)
+              (NP
+                (NP (NNS members))
+                (PP (IN of)
+                  (NP (DT the) (JJ medical) (NN community.)))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN criticized)
+          (PP (IN as)
+            (NP (JJ pseudoscientific) (NN quackery)))
+          (PP (IN by)
+            (NP
+              (NP (DT some) (JJ professional) (NNS scientists)
+                (CC and)
+                (NNS members))
+              (PP (IN of)
+                (NP (DT the) (JJ medical) (NN community.))))))))))
+#
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD became)
+        (NP (DT a) (NNP Field) (NNP Marshal))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ British) (NN Army))
+            (PP (IN in)
+              (NP (CD 1940,))))))
+      (CC and)
+      (VP (VBD served)
+        (PP (IN in)
+          (NP (DT the) (NNP Imperial) (NNP War) (NNP Cabinet)))
+        (PP (IN under)
+          (NP (NNP Winston) (NNP Churchill.)))))))
+#
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD became)
+        (NP (DT a) (NNP Field) (NNP Marshal))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ British) (NN Army))
+            (PP (IN in)
+              (NP (CD 1941,))))))
+      (CC and)
+      (VP (VBD served)
+        (PP (IN in)
+          (NP (DT the) (NNP Imperial) (NNP War) (NNP Cabinet)))
+        (PP (IN under)
+          (NP (NNP Winston) (NNP Churchill.)))))))
+#
+(ROOT
+  (S
+    (NP (NNP Currently,) (NNP I-75))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (NP (CD 15) (NNS lanes))
+          (JJ wide))
+        (PP (IN at)
+          (NP (DT the) (NNP Windy) (NNP Hill) (NNP Interchange))))
+      (UCP
+        (NP
+          (NP (CD (8) (NNS northbound,))
+          (NP (CD 7) (NNS southbound),)))
+        (CC and)
+        (SBAR (IN as)
+          (S
+            (NP (NNP such,))
+            (VP (VBZ is)
+              (NP
+                (NP (DT the) (JJS widest) (NN freeway))
+                (PP (IN in)
+                  (NP (DT the) (NN world.)))))))))))
+#
+(ROOT
+  (S
+    (S
+      (VP (VBG Bisecting)
+        (NP (DT the) (NN city))
+        (PP (IN from)
+          (NP (NN west)))
+        (PP (TO to)
+          (NP
+            (ADVP (JJ east)
+              (PP (IN across)
+                (NP (PRP$ its) (JJ inner) (JJ suburbs,) (NN Highway))))
+            (CD 401)))))
+    (PRN
+      (NP (NNP (or) (NNP simply,))
+      (VP (VBP "the)
+        (NP (CD 401")) (NNS acts))
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN bypass))
+            (PP (IN of)
+              (NP (DT the) (NN downtown) (NN core,)))))))
+    (CC and)
+    (SQ (VBZ is)
+      (NP (PDT both) (DT the)
+        (ADJP (JJS busiest)
+          (CC and)
+          (JJS widest))
+        (NP
+          (NP (NN highway))
+          (PP (IN in)
+            (NP (DT the) (NN world.))))))))
+#
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Turkey,)))
+    (NP (EX there))
+    (VP (VBP are)
+      (ADVP (IN around)
+        (NP (CD 820)))
+      (NP
+        (NP (JJR higher) (NN education) (NNS institutes))
+        (PP (VBG including)
+          (NP
+            (NP (NNP universities,))
+            (PP (IN with)
+              (NP
+                (NP (DT a) (JJ total) (NN student) (NN enrollment))
+                (PP (IN of)
+                  (NP
+                    (QP (IN over) (CD 1))
+                    (NN million.)))))))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ total) (NN capacity))
+      (PP (IN of)
+        (NP (JJ Turkish) (NNS universities))))
+    (VP (VBZ is)
+      (NP
+        (QP (RB approximately) (CD 300,000.))))))
+#
+(ROOT
+  (S
+    (NP (NNP Turkey))
+    (VP
+      (VP (VBZ seeks)
+        (S
+          (VP (TO to)
+            (VP (VB improve)
+              (NP (PRP$ its) (NN investment) (NN climate))
+              (PP (IN through)
+                (NP
+                  (NP (JJ administrative) (NNS streamlining,))
+                  (NP (DT an) (NN end))))
+              (PP (TO to)
+                (NP (JJ foreign) (NN investment) (NNS screening,)))))))
+      (CC and)
+      (VP (VBD strengthened)
+        (NP (JJ intellectual) (NN property) (NN legislation.))))))
+#
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN number))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (NNS disputes))
+            (PP (VBG involving)
+              (NP
+                (NP
+                  (NP (JJ foreign) (NNS investors))
+                  (PP (IN in)
+                    (NP (NNP Turkey))))
+                (CC and)
+                (NP
+                  (NP (JJ certain) (NNS policies,))
+                  (PP (JJ such) (IN as)
+                    (NP
+                      (NP (JJ high) (NN taxation))
+                      (PP (IN of)
+                        (NP (NN cola) (NNS products)))))))))
+          (CC and)
+          (NP
+            (NP (VBG continuing) (NNS gaps))
+            (PP (IN in)
+              (NP (DT the) (JJ intellectual) (NN property) (NN regime,)))))))
+    (VP (VBP inhibit)
+      (NP (NN investment.)))))
+#

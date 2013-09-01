@@ -1,0 +1,134 @@
+<xdrs xml:id="1">
+ <taggedtokens>
+  <tagtoken xml:id="i1001">
+   <tags>
+     <tag type="tok">Tariq</tag>
+     <tag type="pos">NNP</tag>
+     <tag type="lemma">Tariq</tag>
+     <tag type="namex">I-PER</tag>
+   </tags>
+  </tagtoken>
+  <tagtoken xml:id="i1002">
+   <tags>
+     <tag type="tok">Aziz</tag>
+     <tag type="pos">NNP</tag>
+     <tag type="lemma">Aziz</tag>
+     <tag type="namex">I-PER</tag>
+   </tags>
+  </tagtoken>
+  <tagtoken xml:id="i1003">
+   <tags>
+     <tag type="tok">was</tag>
+     <tag type="pos">VBD</tag>
+     <tag type="lemma">be</tag>
+     <tag type="namex">O</tag>
+   </tags>
+  </tagtoken>
+  <tagtoken xml:id="i1004">
+   <tags>
+     <tag type="tok">in</tag>
+     <tag type="pos">IN</tag>
+     <tag type="lemma">in</tag>
+     <tag type="namex">O</tag>
+   </tags>
+  </tagtoken>
+  <tagtoken xml:id="i1005">
+   <tags>
+     <tag type="tok">Saddam's</tag>
+     <tag type="pos">NNP</tag>
+     <tag type="lemma">Saddam's</tag>
+     <tag type="namex">I-LOC</tag>
+   </tags>
+  </tagtoken>
+  <tagtoken xml:id="i1006">
+   <tags>
+     <tag type="tok">inner</tag>
+     <tag type="pos">JJ</tag>
+     <tag type="lemma">inner</tag>
+     <tag type="namex">O</tag>
+   </tags>
+  </tagtoken>
+  <tagtoken xml:id="i1007">
+   <tags>
+     <tag type="tok">circle.</tag>
+     <tag type="pos">NN</tag>
+     <tag type="lemma">circle.</tag>
+     <tag type="namex">O</tag>
+   </tags>
+  </tagtoken>
+ </taggedtokens>
+ <merge>
+  <drs type="normal" label="l">
+   <domain>
+    <dr label="[]" name="_G9945">
+    <indexlist>
+    </indexlist>
+    </dr>
+   </domain>
+   <conds>
+    <cond label="l">
+     <named arg="[]:_G9945" symbol="tariq_aziz" type="per">
+     <indexlist>
+     <index pos="1">i1001</index>
+     <index pos="2">i1002</index>
+     </indexlist>
+     </named>
+    </cond>
+   </conds>
+  </drs>
+  <drs type="normal" label="l">
+   <domain>
+    <dr label="[]" name="_G10065">
+    <indexlist>
+    </indexlist>
+    </dr>
+   </domain>
+   <conds>
+    <cond label="l">
+     <prop argument="[]:_G10065">
+     <indexlist>
+     </indexlist>
+      <drs type="normal" label="l">
+       <domain>
+        <dr label="[]" name="_G10101">
+        <indexlist>
+        </indexlist>
+        </dr>
+       </domain>
+       <conds>
+        <cond label="l">
+         <rel arg1="[]:_G9945" arg2="[]:_G10101" symbol="in" sense="0">
+         <indexlist>
+         <index pos="4">i1004</index>
+         </indexlist>
+         </rel>
+        </cond>
+        <cond label="l">
+         <pred arg="[]:_G10101" symbol="circle." type="n" sense="0">
+         <indexlist>
+         <index pos="7">i1007</index>
+         </indexlist>
+         </pred>
+        </cond>
+        <cond label="l">
+         <pred arg="[]:_G10101" symbol="inner" type="a" sense="0">
+         <indexlist>
+         <index pos="6">i1006</index>
+         </indexlist>
+         </pred>
+        </cond>
+        <cond label="l">
+         <named arg="[]:_G10101" symbol="saddam's" type="loc">
+         <indexlist>
+         <index pos="5">i1005</index>
+         </indexlist>
+         </named>
+        </cond>
+       </conds>
+      </drs>
+     </prop>
+    </cond>
+   </conds>
+  </drs>
+ </merge>
+</xdrs>

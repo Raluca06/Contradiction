@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<opinion>
+	<claim>"Non-acceptance would cause embarrassment to donor and U.S. government"</claim>
+	<holder>General Services Administration</holder>
+	<targets>
+		<target1>U.S. government</target1>
+		<target2>gifts</target2>
+		<target3>donor</target3>
+	</targets>
+	<reporting_verb>said</reporting_verb>
+	<opinion_bearing_word>embarrassment</opinion_bearing_word>
+	<time>2013-04-27</time>
+	<sentiment_polarity_positive>1</sentiment_polarity_positive>
+	<sentiment_polarity_negative>-3</sentiment_polarity_negative>
+	<negation_word>non-acceptance</negation_word>
+	<pos_tagged>[('Non-acceptance', 'NN'), ('would', 'MD'), ('cause', 'VB'), ('embarrassment', 'NN'), ('to', 'TO'), ('donor', 'VB'), ('and', 'CC'), ('U.S.', 'NNP'), ('government', 'NN'), ('.', '.')]</pos_tagged>
+	<person></person>
+	<organization>U.S. government</organization>
+	<phrase_structure>(ROOT
+  (S
+    (NP (NNP Non-acceptance))
+    (VP (MD would)
+      (VP (VB cause)
+        (NP (NN embarrassment))
+        (PP (TO to)
+          (NP (NN donor)
+            (CC and)
+            (NNP U.S.) (NN government)))))
+    (. .)))</phrase_structure>
+	<dependency_structure>nsubj(cause-3, Non-acceptance-1)
+aux(cause-3, would-2)
+root(ROOT-0, cause-3)
+dobj(cause-3, embarrassment-4)
+prep(cause-3, to-5)
+nn(government-9, donor-6)
+cc(donor-6, and-7)
+conj(donor-6, U.S.-8)
+pobj(to-5, government-9)</dependency_structure>
+	<relation>cause</relation>
+	<synset></synset>
+</opinion>
+<opinion>
+	<claim>"Non-acceptance would cause embarrassment to donor and U.S. government"</claim>
+	<holder>General Services Administration</holder>
+	<targets>
+		<target1>U.S. government</target1>
+		<target2>gifts</target2>
+		<target3>donor</target3>
+	</targets>
+	<reporting_verb>denied</reporting_verb>
+	<opinion_bearing_word>embarrassment</opinion_bearing_word>
+	<time>2013-04-27</time>
+	<sentiment_polarity_positive>1</sentiment_polarity_positive>
+	<sentiment_polarity_negative>-3</sentiment_polarity_negative>
+	<negation_word>non-acceptance</negation_word>
+	<pos_tagged>[('Non-acceptance', 'NN'), ('would', 'MD'), ('cause', 'VB'), ('embarrassment', 'NN'), ('to', 'TO'), ('donor', 'VB'), ('and', 'CC'), ('U.S.', 'NNP'), ('government', 'NN'), ('.', '.')]</pos_tagged>
+	<person></person>
+	<organization>U.S. government</organization>
+	<phrase_structure>(ROOT
+  (S
+    (NP (NNP Non-acceptance))
+    (VP (MD would)
+      (VP (VB cause)
+        (NP (NN embarrassment))
+        (PP (TO to)
+          (NP (NN donor)
+            (CC and)
+            (NNP U.S.) (NN government)))))
+    (. .)))</phrase_structure>
+	<dependency_structure>nsubj(cause-3, Non-acceptance-1)
+aux(cause-3, would-2)
+root(ROOT-0, cause-3)
+dobj(cause-3, embarrassment-4)
+prep(cause-3, to-5)
+nn(government-9, donor-6)
+cc(donor-6, and-7)
+conj(donor-6, U.S.-8)
+pobj(to-5, government-9)</dependency_structure>
+	<relation>cause</relation>
+	<synset></synset>
+</opinion>
+</document>

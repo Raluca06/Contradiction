@@ -1,0 +1,72 @@
+<document>
+<opinion>
+	<text>Russian French Minister Ivanov said that Nato's eastward expansion was "towards the wrong direction".</text>
+	<claim>Nato's eastward expansion was "towards the wrong direction"</claim>
+	<holder>Russian French Minister Ivanov</holder>
+	<target>Nato's eastward expansion</target>	
+	<reporting_verb>said</reporting_verb>
+	<opinionBearingWord>
+		<word NegValue="0.75" PosValue="0.125">wrong</word>
+	</opinionBearingWord>
+	<time>2013-04-27</time>
+	<phrase_structure>
+		(ROOT
+		  (S
+			(NP (JJ Russian) (NNP French) (NNP Minister) (NNP Ivanov))
+			(VP (VBD said)
+			  (SBAR (IN that)
+				(S
+				  (NP
+					(NP (NNP Nato) (POS 's))
+					(ADJP (RB eastward))
+					(NN expansion))
+				  (VP (VBD was) (`` ``)
+					(PP (IN towards)
+					  (NP (DT the) (JJ wrong) (NN direction) ('' '')))))))
+		(. .)))
+	</phrase_structure>
+	<dependency_structure>
+		[said/VBD
+	  nsubj:[Ivanov/NNP amod:Russian/JJ nn:French/NNP nn:Minister/NNP]
+	  ccomp:[was/VBD
+			 mark:that/IN
+			 nsubj:[expansion/NN poss:Nato/NNP amod:eastward/RB]
+			 prep_towards:[direction/NN det:the/DT amod:wrong/JJ]]]
+	</dependency_structure>
+</opinion>
+<opinion>
+    <text>Russian French Minister Ivanov said that Nato's eastward expansion was "towards the good direction".</text>
+	<claim>Nato's eastward expansion was "towards the good direction"</claim>
+	<holder>Russian French Minister Ivanov</holder>
+	<target>Nato's eastward expansion</target>	
+	<reporting_verb>said</reporting_verb>
+	<opinionBearingWord>
+		<word NegValue="0.0" PosValue="0.625">good</word>
+	</opinionBearingWord>
+	<time>2013-04-27</time>
+	<phrase_structure>
+		(ROOT
+		  (S
+			(NP (JJ Russian) (NNP French) (NNP Minister) (NNP Ivanov))
+			(VP (VBD said)
+			  (SBAR (IN that)
+				(S
+				  (NP
+					(NP (NNP Nato) (POS 's))
+					(ADJP (RB eastward))
+					(NN expansion))
+				  (VP (VBD was) (`` ``)
+					(PP (IN towards)
+					  (NP (DT the) (JJ good) (NN direction) ('' '')))))))
+		(. .)))
+	</phrase_structure>
+	<dependency_structure>
+		[said/VBD
+	  nsubj:[Ivanov/NNP amod:Russian/JJ nn:French/NNP nn:Minister/NNP]
+	  ccomp:[was/VBD
+			 mark:that/IN
+			 nsubj:[expansion/NN poss:Nato/NNP amod:eastward/RB]
+			 prep_towards:[direction/NN det:the/DT amod:good/JJ]]]
+	</dependency_structure>
+</opinion>
+</document>

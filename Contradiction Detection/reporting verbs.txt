@@ -1,0 +1,128 @@
+say
+comment
+express
+convey
+opens up
+call
+suggest
+speculate
+hypothesise
+moot
+imply
+propose
+recommend
+posit the view that
+question the view that
+postulate
+describe
+show
+reveal
+study
+demonstrate
+note
+point out
+indicate
+observe
+assume
+take into consideration
+examine
+go on to say that
+state
+believe
+mention
+intimate
+claim
+emphasize
+contend
+maintain
+assert
+theorize
+support the view that
+strongly believe that
+accuse
+add
+admit
+advise
+agree
+announce
+answer
+answer back
+apologize
+ask
+ask after
+ask in
+ask round
+demand
+beg
+blame
+blather
+blurt
+blurt out
+boast
+comment
+confirm
+congratulate
+consider
+cry
+decide
+encourage
+enquire
+estimate
+explain
+forbid
+gabble
+grumble
+gush
+inquire
+insist
+interrupt
+invite
+jabber
+laugh
+laugh off
+mention
+observe
+offer
+order
+persuade
+plead
+promise
+propose
+recommend
+remark
+remember
+remind
+repeat
+reply
+report
+respond
+retort
+return
+shout
+splutter
+stammer
+state
+stutter
+suppose
+swear
+tell
+threaten
+thunder
+titter
+warn
+whimper
+whisper
+yell
+confess
+acknowledge
+allege
+aver
+declare
+proclaim
+designate
+affirm
+sustain
+validate
+recognize
+certify
+testify
